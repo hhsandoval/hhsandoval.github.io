@@ -37,10 +37,10 @@ PhD in Economics, UW-Madison, 2015
 2. **[Social Capital in Labor Market Access and Poverty in Mexico](http://biblioteca.ciess.org/adiss/r458/social_capital_in_labor_market_access_and_poverty_in_mexico)**  
   with Martin Lima. *Well-being and Social Policy, 9(1): 49-71, 2014*
 
-3. **[Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html)**
+3. **[Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html)**  
    with Carlos Urzúa. *Journal of Management, Finance, and Economics, 3(1): 29-36, 2009*
 
-4. **[TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)**
+4. **[TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)**  
    with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
 
 
