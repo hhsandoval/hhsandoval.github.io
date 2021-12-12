@@ -1,5 +1,5 @@
 title: Hector H. Sandoval's Website
-theme: jekyll-theme-minimal
+theme: minima
 
 author: HHSG
 email: hsandoval@ufl.edu
@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Hector H. Sandoval personal website
 
 # social links
-twitter_username: hhsandoval-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username: hhsandoval # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
