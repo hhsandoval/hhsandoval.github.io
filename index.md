@@ -16,40 +16,40 @@ Research Areas: Applied microenomics, social interactions (peer effects), educat
 ### Working Papers
 
 1. **Social Interactions and Social Divisions in Program Intervention**  
-          - Under review, *Economic Development and Cultural Change*
+   Under review, *Economic Development and Cultural Change*
 
 2. **Low Income Energy Efficiency Programs and Energy Consumption**   
-      with Pedro Hancevic. Revise and resubmit, *Journal of Environmental Economics and Management*
+   with Pedro Hancevic. Revise and resubmit, *Journal of Environmental Economics and Management*
 
-3. **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors**. 
-      with Pedro Hancevic. Under review, *Economics of Energy & Environmental Policy*
+3. **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors**  
+   with Pedro Hancevic. Under review, *Economics of Energy & Environmental Policy*
 
 4. **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes**  
    with Emanuel Garcia Munoz. Revise and resubmit, *Journal of Human Capital*
 
 5. **Sentiments and Spending Intentions: Evidence from Florida**  
-with Anita Walsh. Under review, *Economic Journal*
+   with Anita Walsh. Under review, *Economic Journal*
 
 6. **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence**  
-with Armand Kapllani. Under review, *Economic Bulletin*
+   with Armand Kapllani. Under review, *Economic Bulletin*
 
 ### Refereed Publications
 
 1. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
-with Anita Walsh  
-*Southern Economic Journal, 88(2): 757-788, 2021*
+   with Anita Walsh  
+   *Southern Economic Journal, 88(2): 757-788, 2021*
 
 2. **[Social Capital in Labor Market Access and Poverty in Mexico](http://biblioteca.ciess.org/adiss/r458/social_capital_in_labor_market_access_and_poverty_in_mexico)**  
-with Martin Lima 
-*Well-being and Social Policy, 9(1): 49-71, 2014*
+  with Martin Lima 
+  *Well-being and Social Policy, 9(1): 49-71, 2014*
 
 3. **[Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html)**
-with Carlos Urzúa 
-*Journal of Management, Finance, and Economics, 3(1): 29-36, 2009*
+   with Carlos Urzúa 
+   *Journal of Management, Finance, and Economics, 3(1): 29-36, 2009*
 
 4. **[TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)**
-with Carlos Urzúa and Alejandra Macías  
-*Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
+   with Carlos Urzúa and Alejandra Macías  
+   *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
 
 
 ### Research Reports
