@@ -14,8 +14,10 @@ social-network-links:
 
 url-pretty: "https://hhsandoval.github.io/"
 
-excerpt_length: 75
+excerpt_length: 100
 
-theme: jekyll-theme-minimal
+theme: minima
+
+# theme: jekyll-theme-minimal
 
 show_excerpts: true
