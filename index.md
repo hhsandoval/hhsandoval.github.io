@@ -1,10 +1,12 @@
-# 
+#
+
 Assistant Professor, Department of Economics, 2015-Present  
 Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), 2015-Present  
 University of Florida  
 PhD in Economics, UW-Madison, 2015  
 `Research areas:` Applied microenomics, social interactions (peer effects), education, energy, and consumer sentiment  
 `E-mail:` hsandoval@ufl.edu
+
 # 
 
 ### Download CV
