@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 Assistant Professor, Department of Economics, 2015-Present  
 Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), 2015-Present  
