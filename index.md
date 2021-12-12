@@ -26,10 +26,10 @@ Research Areas: Applied microenomics, social interactions (peer effects), educat
 [ 4 ] **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes**  
    with Emanuel Garcia Munoz. Revise and resubmit, *Journal of Human Capital*
 
-[ 5 ] **Sentiments and Spending Intentions: Evidence from Florida**
+[ 5 ] **Sentiments and Spending Intentions: Evidence from Florida**. 
 with Anita Walsh. Under review, *Economic Journal*
 
-[ 6 ] **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** 
+[ 6 ] **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence**. 
 with Armand Kapllani. Under review, *Economic Bulletin*
 
 
