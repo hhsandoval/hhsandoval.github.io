@@ -1,6 +1,5 @@
----
-title: "Hector H. Sandoval's Website"
----
+# Hector H. Sandoval's Website
+
 
 Assistant Professor, Department of Economics, 2015 -  
 Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), 2015 -  
