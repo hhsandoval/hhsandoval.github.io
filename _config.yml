@@ -16,8 +16,7 @@ url-pretty: "https://hhsandoval.github.io/"
 
 excerpt_length: 100
 
-theme: minima
-
-# theme: jekyll-theme-minimal
+# theme: minima
+theme: jekyll-theme-minimal
 
 show_excerpts: true
