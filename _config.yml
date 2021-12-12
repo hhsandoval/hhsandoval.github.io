@@ -1,12 +1,21 @@
 title: Hector H. Sandoval's Website
+author: Hector H. Sandoval
+
+navbar-links:
+  UF Department of Economics: "https://economics.clas.ufl.edu/"
+  BEBR: "https://www.bebr.ufl.edu/"
+
+avatar: "https://user-images.githubusercontent.com/95992942/145701862-438f789f-30d0-4143-948b-695a9c4d9f90.jpg"
+round-avatar: false
+
+social-network-links:
+  email: "hsandoval@ufl.edu"
+  github: hhsandoval
+
+url-pretty: "https://hhsandoval.github.io/"
+
+excerpt_length: 75
+
 theme: jekyll-theme-minimal
 
-email: hsandoval@ufl.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Hector H. Sandoval personal website
-  ![Hector](https://user-images.githubusercontent.com/95992942/145701862-438f789f-30d0-4143-948b-695a9c4d9f90.jpg)
-
-# social links
-github_username: hhsandoval # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true
