@@ -15,7 +15,7 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Working Papers </span>
 
-1. <span style="color: navy"> **Social Interactions and Social Divisions in Program Intervention** </span>  
+1. <span style="color:red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
    Under review, *Economic Development and Cultural Change*
 
 2.  <span style="color: navy"> **Low Income Energy Efficiency Programs and Energy Consumption** </span>  
@@ -33,7 +33,7 @@ PhD in Economics, UW-Madison, 2015
 6.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
    with Armand Kapllani. Under review, *Economic Bulletin*
 
-### <span style="color: navy"> Refereed Publications </span>
+### <span style="color: maroon"> Refereed Publications </span>
 
 1. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
    with Anita Walsh. *Southern Economic Journal, 88(2): 757-788, 2021*
@@ -47,9 +47,9 @@ PhD in Economics, UW-Madison, 2015
 4. **[TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)**  
    with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
 
-### <span style="color: navy"> Research Reports </span>
+### <span style="color: maroon"> Research Reports </span>
 
-### <span style="color: navy"> Work in Progress </span>
+### <span style="color: maroon"> Work in Progress </span>
 
 
 <!-- ![Hector](https://user-images.githubusercontent.com/95992942/145701862-438f789f-30d0-4143-948b-695a9c4d9f90.jpg)
