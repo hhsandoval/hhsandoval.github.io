@@ -9,7 +9,11 @@ PhD in Economics, UW-Madison, 2015
 `Research areas:` Applied Microenomics, Social Interactions, Peer Effects, Education, Energy, Consumer Sentiment, and Program Evaluation  
 `E-mail:` hsandoval@ufl.edu 
 
-### [<span style="color: teal"> Download CV </span>](https://github.com/hhsandoval/hhsandoval.github.io/files/7698132/202111.CV.HS.pdf)
+### [<span style="color: teal"> Download CV </span>](https://github.com/hhsandoval/hhsandoval.github.io/blob/main/202112%20CV%20HS.pdf)
+
+<!-- (https://github.com/hhsandoval/hhsandoval.github.io/files/7698132/202111.CV.HS.pdf) -->
+
+
 
 * * *
 
