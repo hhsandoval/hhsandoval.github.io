@@ -13,24 +13,24 @@ PhD in Economics, UW-Madison, 2015
 
 * * *
 
-### <span style="color: navy"> Working Papers </span>
+### <span style="color: maroon"> Working Papers </span>
 
-1. **Social Interactions and Social Divisions in Program Intervention**  
+1. <span style="color: navy"> **Social Interactions and Social Divisions in Program Intervention** </span>  
    Under review, *Economic Development and Cultural Change*
 
-2. **Low Income Energy Efficiency Programs and Energy Consumption**   
+2.  <span style="color: navy"> **Low Income Energy Efficiency Programs and Energy Consumption** </span>  
    with Pedro Hancevic. Revise and resubmit, *Journal of Environmental Economics and Management*
 
-3. **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors**  
+3.  <span style="color: navy"> **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors** </span>  
    with Pedro Hancevic. Under review, *Economics of Energy & Environmental Policy*
 
-4. **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes**  
+4.  <span style="color: navy"> **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes** </span>  
    with Emanuel Garcia Munoz. Revise and resubmit, *Journal of Human Capital*
 
-5. **Sentiments and Spending Intentions: Evidence from Florida**  
+5.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
    with Anita Walsh. Under review, *Economic Journal*
 
-6. **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence**  
+6.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
    with Armand Kapllani. Under review, *Economic Bulletin*
 
 ### <span style="color: navy"> Refereed Publications </span>
