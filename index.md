@@ -6,15 +6,14 @@ Assistant Professor, Department of Economics, 2015-Present
 Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), 2015-Present  
 University of Florida  
 PhD in Economics, UW-Madison, 2015  
-`Research areas:` Applied microenomics, social interactions (peer effects), education, energy, and consumer sentiment  
+`Research areas:` Applied Microenomics, Social Interactions, Peer Effects, Education, Energy, Consumer Sentiment, and Program Evaluation  
 `E-mail:` hsandoval@ufl.edu 
 
-### Download CV
-<!--[Download CV](https://github.com/hhsandoval/hhsandoval.github.io/files/7698132/202111.CV.HS.pdf)-->
+### [<span style="color: teal"> Download CV </span>](https://github.com/hhsandoval/hhsandoval.github.io/files/7698132/202111.CV.HS.pdf)
 
 * * *
 
-### Working Papers
+### <span style="color: navy"> Working Papers </span>
 
 1. **Social Interactions and Social Divisions in Program Intervention**  
    Under review, *Economic Development and Cultural Change*
@@ -34,7 +33,7 @@ PhD in Economics, UW-Madison, 2015
 6. **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence**  
    with Armand Kapllani. Under review, *Economic Bulletin*
 
-### Refereed Publications
+### <span style="color: navy"> Refereed Publications </span>
 
 1. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
    with Anita Walsh. *Southern Economic Journal, 88(2): 757-788, 2021*
@@ -48,11 +47,9 @@ PhD in Economics, UW-Madison, 2015
 4. **[TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)**  
    with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
 
+### <span style="color: navy"> Research Reports </span>
 
-### <span style="color: green"> Research Reports </span>
-
-
-### Work in Progress
+### <span style="color: navy"> Work in Progress </span>
 
 
 <!-- ![Hector](https://user-images.githubusercontent.com/95992942/145701862-438f789f-30d0-4143-948b-695a9c4d9f90.jpg)
