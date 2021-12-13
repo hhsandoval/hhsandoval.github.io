@@ -12,6 +12,8 @@ PhD in Economics, UW-Madison, 2015
 ### Download CV
 <!--[Download CV](https://github.com/hhsandoval/hhsandoval.github.io/files/7698132/202111.CV.HS.pdf)-->
 
+* * *
+
 ### Working Papers
 
 1. **Social Interactions and Social Divisions in Program Intervention**  
@@ -47,7 +49,7 @@ PhD in Economics, UW-Madison, 2015
    with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
 
 
-### Research Reports
+### <span style="color: green"> Research Reports </span>
 
 
 ### Work in Progress
