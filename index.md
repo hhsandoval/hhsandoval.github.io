@@ -11,9 +11,9 @@ PhD in Economics, UW-Madison, 2015
 
 ### [<span style="color: teal"> Download CV </span>](https://github.com/hhsandoval/hhsandoval.github.io/blob/main/202112%20CV%20HS.pdf)
 
+### <a href="hhsandoval.github.io/202112 CV HS.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a>
+
 <!-- (https://github.com/hhsandoval/hhsandoval.github.io/files/7698132/202111.CV.HS.pdf) -->
-
-
 
 * * *
 
