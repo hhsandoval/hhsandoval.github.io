@@ -31,7 +31,7 @@ PhD in Economics, UW-Madison, 2015
    with Emanuel Garcia Munoz. Revise and resubmit, *Journal of Human Capital*
 
 5.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
-   with Anita Walsh. Under review, *Economic Journal*
+   with Anita Walsh. Under review
 
 6.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
    with Armand Kapllani. Under review, *Economic Bulletin*
