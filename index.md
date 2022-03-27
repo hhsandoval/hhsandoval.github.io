@@ -28,10 +28,10 @@ PhD in Economics, UW-Madison, 2015
    with Anita Walsh. Under review
 
 4. <span style="color:red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
-   Under review, *Economic Development and Cultural Change*
+   Under review
 
 5.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
-   with Armand Kapllani.
+   with Armand Kapllani
 
 ### <span style="color: maroon"> Refereed Publications </span>
 
