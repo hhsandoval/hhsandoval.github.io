@@ -38,10 +38,10 @@ PhD in Economics, UW-Madison, 2015
 
 
 1.  <span style="color: navy"> **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors** </span>  
-   with Pedro Hancevic. Resubmitted to *Economics of Energy & Environmental Policy*
+   with Pedro Hancevic. Revised and resubmitted to *Economics of Energy & Environmental Policy*
 
 2.  <span style="color: navy"> **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes** </span>  
-   with Emanuel Garcia Munoz. Resubmitted to *Journal of Human Capital*
+   with Emanuel Garcia Munoz. Revised and resubmitted to *Journal of Human Capital*
 
 3.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
    with Anita Walsh. Submitted.
@@ -55,8 +55,7 @@ PhD in Economics, UW-Madison, 2015
    with Pedro Hancevic and Edgar Hernández-Ortiz
    
 2.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
-   with Armand Kapllani
-   
+   with Armand Kapllani   
 
 ### <span style="color: maroon"> Research Reports </span>
 
