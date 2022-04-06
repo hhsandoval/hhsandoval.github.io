@@ -35,7 +35,7 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Refereed Publications </span>
 
-1. **[Low Income Energy Efficiency Programs and Energy Consumption]()**  
+1. **[Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)**  
    with Pedro Hancevic. *Journal of Environmental Economics and Management (forthcoming)*
 
 2. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
