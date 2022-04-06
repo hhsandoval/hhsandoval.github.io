@@ -51,7 +51,7 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1.  <span style="color: navy"> **Determinants of solar panel adoption in small and medium-sized commercial and service firms: Evidence from Aguascalientes, Mexico** </span>  
+1.  <span style="color: navy"> **Determinants of Solar Panel Adoption in Small- and Medium-Sized Commercial and Service Firms: Evidence from Aguascalientes, Mexico** </span>  
    with Pedro Hancevic and Edgar Hernández-Ortiz
    
 2.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
