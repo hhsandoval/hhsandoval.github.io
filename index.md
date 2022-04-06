@@ -16,23 +16,6 @@ PhD in Economics, UW-Madison, 2015
 
 * * *
 
-### <span style="color: maroon"> Working Papers </span>
-
-1.  <span style="color: navy"> **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors** </span>  
-   with Pedro Hancevic. Revise and resubmit, *Economics of Energy & Environmental Policy*
-
-2.  <span style="color: navy"> **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes** </span>  
-   with Emanuel Garcia Munoz. Revise and resubmit, *Journal of Human Capital*
-
-3.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
-   with Anita Walsh. Under review
-
-4. <span style="color:red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
-   Under review
-
-5.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
-   with Armand Kapllani
-
 ### <span style="color: maroon"> Refereed Publications </span>
 
 1. **[Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)**  
@@ -51,8 +34,29 @@ PhD in Economics, UW-Madison, 2015
    with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
 
 
+### <span style="color: maroon"> Working Papers </span>
+
+
+1.  <span style="color: navy"> **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors** </span>  
+   with Pedro Hancevic. Resubmitted to *Economics of Energy & Environmental Policy*
+
+2.  <span style="color: navy"> **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes** </span>  
+   with Emanuel Garcia Munoz. Resubmitted to *Journal of Human Capital*
+
+3.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
+   with Anita Walsh. Submitted.
+
+4. <span style="color:red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
+   Under review.
+
 ### <span style="color: maroon"> Work in Progress </span>
 
+1.  <span style="color: navy"> **Determinants of solar panel adoption in small and medium-sized commercial and service firms: Evidence from Aguascalientes, Mexico** </span>  
+   with Pedro Hancevic and Edgar Hernández-Ortiz
+   
+2.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
+   with Armand Kapllani
+   
 
 ### <span style="color: maroon"> Research Reports </span>
 
