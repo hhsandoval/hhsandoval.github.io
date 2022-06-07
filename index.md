@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Assistant Professor, Department of Economics, 2015-Present  
-Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), 2015-Present  
+Assistant Professor, Department of Economics, 2015 - Present  
+Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), 2015 - Present  
 University of Florida  
 PhD in Economics, UW-Madison, 2015  
 `Research areas:` Applied Microenomics, Social Interactions, Peer Effects, Education, Energy, Consumer Sentiment, and Program Evaluation  
@@ -21,32 +21,30 @@ PhD in Economics, UW-Madison, 2015
 1. **[Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)**  
    with Pedro Hancevic. *Journal of Environmental Economics and Management (forthcoming)*
 
-2. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
+2. **[The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/current)**  
+   with Emanuel Garcia Munoz. *Journal of Human Capital (forthcoming)*
+
+3. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
    with Anita Walsh. *Southern Economic Journal, 88(2): 757-788, 2021*
 
-3. **[Social Capital in Labor Market Access and Poverty in Mexico](http://biblioteca.ciess.org/adiss/r458/social_capital_in_labor_market_access_and_poverty_in_mexico)**  
+4. **[Social Capital in Labor Market Access and Poverty in Mexico](http://biblioteca.ciess.org/adiss/r458/social_capital_in_labor_market_access_and_poverty_in_mexico)**  
   with Martin Lima. *Well-being and Social Policy, 9(1): 49-71, 2014*
 
-4. **[Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html)**  
+5. **[Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html)**  
    with Carlos Urzúa. *Journal of Management, Finance, and Economics, 3(1): 29-36, 2009*
 
-5. **[TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)**  
+6. **[TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)**  
    with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008*
 
-
 ### <span style="color: maroon"> Working Papers </span>
-
 
 1.  <span style="color: navy"> **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors** </span>  
    with Pedro Hancevic. Revised and resubmitted to *Economics of Energy & Environmental Policy*
 
-2.  <span style="color: navy"> **The Impact of K-12 Student Fare Free Bus Programs on Education and Labor Market Outcomes** </span>  
-   with Emanuel Garcia Munoz. Revised and resubmitted to *Journal of Human Capital*
-
-3.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
+2.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
    with Anita Walsh. Submitted.
 
-4. <span style="color:red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
+3. <span style="color:red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
    Under review.
 
 ### <span style="color: maroon"> Work in Progress </span>
