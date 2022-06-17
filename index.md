@@ -21,7 +21,7 @@ PhD in Economics, UW-Madison, 2015
 1. **[Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)**  
    with Pedro Hancevic. *Journal of Environmental Economics and Management (forthcoming)*
 
-2. **[The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/current)**  
+2. **[The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)**  
    with Emanuel Garcia Munoz. *Journal of Human Capital (forthcoming)*
 
 3. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
@@ -38,13 +38,13 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Working Papers </span>
 
-1.  <span style="color: navy"> **Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors** </span>  
-   with Pedro Hancevic. Revised and resubmitted to *Economics of Energy & Environmental Policy*
+1. **[Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](https://www.iaee.org/en/publications/eeepscope.aspx)**  
+   with Pedro Hancevic. Conditionally accepted *Economics of Energy & Environmental Policy*
 
 2.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
    with Anita Walsh. Submitted.
 
-3. <span style="color:red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
+3. <span style="color: red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
    Under review.
 
 ### <span style="color: maroon"> Work in Progress </span>
