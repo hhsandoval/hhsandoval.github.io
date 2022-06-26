@@ -18,14 +18,14 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Refereed Publications </span>
 
-1. **[Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)**  
-   with Pedro Hancevic. *Journal of Environmental Economics and Management (forthcoming)*
-
-2. **[Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](https://www.iaee.org/en/publications/eeepscope.aspx)**  
+1. **[Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](https://www.iaee.org/en/publications/eeepscope.aspx)**  
    with Pedro Hancevic. *Economics of Energy & Environmental Policy (forthcoming)*
 
-3. **[The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)**  
+2. **[The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)**  
    with Emanuel Garcia Munoz. *Journal of Human Capital (forthcoming)*
+
+3. **[Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)**  
+   with Pedro Hancevic. *Journal of Environmental Economics and Management, Vol 113, 102656, 2022*
 
 4. **[The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)**  
    with Anita Walsh. *Southern Economic Journal, 88(2): 757-788, 2021*
@@ -52,7 +52,7 @@ PhD in Economics, UW-Madison, 2015
 1.  <span style="color: navy"> **Solar Panel Adoption in SMEs in Developing Countries** </span>  
    with Pedro Hancevic
    
-2.  <span style="color: navy"> **Undercoverage and Partial Identification in Telephone Surveys with an Application to Consumer Confidence** </span>  
+2.  <span style="color: navy"> **Undercoverage and Partial Identification with Covariates** </span>  
    with Armand Kapllani   
 
 ### <span style="color: maroon"> Research Reports </span>
