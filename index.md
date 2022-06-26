@@ -9,14 +9,7 @@ PhD in Economics, UW-Madison, 2015
 `Research areas:` Applied Microenomics, Social Interactions, Peer Effects, Education, Energy, Consumer Sentiment, and Program Evaluation  
 `E-mail:` hsandoval@ufl.edu 
 
-[Home](index.html) | <a href="https://hhsandoval.github.io/cvhhsg.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a> | [Teaching](teaching.html) | [BEBR](https://www.bebr.ufl.edu/)  
-
-* * *
-
-<!--  ### [<span style="color: teal"> Download CV </span>](https://github.com/hhsandoval/hhsandoval.github.io/blob/main/202112%20CV%20HS.pdf)
-(https://github.com/hhsandoval/hhsandoval.github.io/files/7698132/202111.CV.HS.pdf) -->
-
-### <a href="https://hhsandoval.github.io/202205 CV HS.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a>
+[<span style="color: teal"> Home </span> </a>](index.html) | <a href="https://hhsandoval.github.io/cvhhsg.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a> | [<span style="color: teal"> Teaching </span> </a>](teaching.html) | [<span style="color: teal"> BEBR </span> </a>](bebr.html)  
 
 * * *
 
