@@ -42,7 +42,7 @@ PhD in Economics, UW-Madison, 2015
 ### <span style="color: maroon"> Working Papers </span>
 
 1.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
-   with Anita Walsh. Submitted.
+   with Anita Walsh. Under review.
 
 2. <span style="color: red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
    Under review.
