@@ -22,7 +22,7 @@ PhD in Economics, UW-Madison, 2015
 
 1. Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. Commissioned by the Florida Department of State, Division of Library and Information Services, 2021. 
     * Role: Principal Investigator 
-    * Reports: [Economic Impacts](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) <span style="color: maroon"> &#124; </span>  [Major Events](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
+    * Reports: [Economic Impact Study](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) <span style="color: maroon"> &#124; </span>  [Major Events Study](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
 
 2. Volusia County Public Investment Study. Commissioned by the Daytona Regional Chamber of Commerce and the Civic League of the Halifax Area, 2021. 
     * Role: Principal Investigator 
