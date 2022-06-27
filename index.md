@@ -39,7 +39,7 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Working Papers </span>
 
-1.  <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
+1. <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
    with Anita Walsh. Under review.
 
 2. <span style="color: red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
@@ -47,13 +47,13 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1.  <span style="color: navy"> **Solar Panel Adoption in SMEs in Developing Countries** </span>  
+1. <span style="color: navy"> **Solar Panel Adoption in SMEs in Developing Countries** </span>  
    with Pedro Hancevic
 
 2. <span style="color: navy"> **Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas** </span>
    with Anita Walsh
 
-3.  <span style="color: navy"> **Undercoverage and Partial Identification with Covariates** </span>  
+3. <span style="color: navy"> **Undercoverage and Partial Identification with Covariates** </span>  
    with Armand Kapllani   
 
 
