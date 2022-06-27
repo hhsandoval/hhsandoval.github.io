@@ -7,7 +7,7 @@ Director of Economic Analysis Program, Bureau of Economic and Business Research 
 University of Florida  
 PhD in Economics, UW-Madison, 2015  
 `Research areas:` Applied Microenomics, Social Interactions, Peer Effects, Education, Energy, Consumer Sentiment, and Program Evaluation  
-`E-mail:` hsandoval@ufl.edu 
+`E-mail:` mailto:hsandoval@ufl.edu 
 
 
 [<span style="color: teal"> Home </span>](index.html) <span style="color: maroon"> &#124; </span> <a href="https://hhsandoval.github.io/cvhhsg.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a> <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Teaching </span>](teaching.html) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> BEBR </span>](bebr.html)
@@ -40,10 +40,10 @@ PhD in Economics, UW-Madison, 2015
 ### <span style="color: maroon"> Working Papers </span>
 
 1. <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
-   with Anita Walsh. Under review.
+   with Anita Walsh *(under review)*
 
 2. <span style="color: red"> **Social Interactions and Social Divisions in Program Intervention** </span>  
-   Under review.
+   *(under review)*
 
 ### <span style="color: maroon"> Work in Progress </span>
 
