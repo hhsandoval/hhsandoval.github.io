@@ -2,24 +2,18 @@ title: Hector H. Sandoval's Website
 logo: "hhsg202205.jpg"
 author: Hector H. Sandoval
 description: Hector H. Sandoval, Univeristy of Florida
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
 # theme: minima
-
-
 # navbar-links:
   # UF Department of Economics: "https://economics.clas.ufl.edu/"
   # BEBR: "https://www.bebr.ufl.edu/"
-
 # social-network-links:
   # email: "hsandoval@ufl.edu"
   # github: hhsandoval
-
 # url-pretty: "https://hhsandoval.github.io/"
-
 # excerpt_length: 100
-
 # show_excerpts: true
-
-
 # https://user-images.githubusercontent.com/95992942/145701862-438f789f-30d0-4143-948b-695a9c4d9f90.jpg
