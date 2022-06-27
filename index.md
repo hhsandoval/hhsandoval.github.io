@@ -9,7 +9,7 @@ PhD in Economics, UW-Madison, 2015
 `Research areas:` Applied Microenomics, Social Interactions, Peer Effects, Education, Energy, Consumer Sentiment, and Program Evaluation  
 `E-mail:` hsandoval@ufl.edu 
 
-[<span style="color: teal"> Home </span> </a>](index.html) | <a href="https://hhsandoval.github.io/cvhhsg.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a> | [<span style="color: teal"> Teaching </span> </a>](teaching.html) | [<span style="color: teal"> BEBR </span> </a>](bebr.html)  
+[<span style="color: teal"> Home </span>](index.html) | <a href="https://hhsandoval.github.io/cvhhsg.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a> | [<span style="color: teal"> Teaching </span>](teaching.html) | [<span style="color: teal"> BEBR </span>](bebr.html)  
 
 * * *
 
@@ -52,7 +52,6 @@ PhD in Economics, UW-Madison, 2015
 2.  <span style="color: navy"> **Undercoverage and Partial Identification with Covariates** </span>  
    with Armand Kapllani   
 
-### <span style="color: maroon"> Research Reports </span>
 
 
 
