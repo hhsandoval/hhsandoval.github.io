@@ -10,7 +10,7 @@ PhD in Economics, UW-Madison, 2015
 `E-mail:` [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
 
 
-[<span style="color: teal"> Home </span>](index.html) <span style="color: maroon"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a> <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Teaching </span>](teaching.html) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> BEBR </span>](bebr.html)
+[<span style="color: indigo"> Home </span>](index.html) <span style="color: maroon"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: indigo"> Download CV </span> </a> <span style="color: maroon"> &#124; </span> [<span style="color: indigo"> Teaching </span>](teaching.html) <span style="color: maroon"> &#124; </span> [<span style="color: indigo"> BEBR </span>](bebr.html)
 
 * * *
 
@@ -22,7 +22,7 @@ PhD in Economics, UW-Madison, 2015
 
 2. Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. Commissioned by the Florida Department of State, Division of Library and Information Services, 2021. 
     * Role: Principal Investigator 
-    * Reports: [Economic Impact Study](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) <span style="color: maroon"> &#124; </span>  [Major Events Study](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
+    * Reports: <span style="color: teal"> [Economic Impact Study](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) </span> <span style="color: maroon"> &#124; </span>  [Major Events Study](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
 
 3. Volusia County Public Investment Study. Commissioned by the Daytona Regional Chamber of Commerce and the Civic League of the Halifax Area, 2021. 
     * Role: Principal Investigator 
