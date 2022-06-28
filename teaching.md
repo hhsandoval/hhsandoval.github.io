@@ -10,7 +10,7 @@ PhD in Economics, UW-Madison, 2015
 `E-mail:` [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
 
 
-[<span style="color: DarkSlateBlue"> Home </span>](index.html) <span style="color: maroon"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: Indigo"> Download CV </span> </a> <span style="color: maroon"> &#124; </span> [<span style="color: CadetBlue"> Teaching </span>](teaching.html) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> BEBR </span>](bebr.html)
+[<span style="color: Crimson"> Home </span>](index.html) <span style="color: maroon"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: Crimson"> Download CV </span> </a> <span style="color: maroon"> &#124; </span> [<span style="color: Crimson"> Teaching </span>](teaching.html) <span style="color: maroon"> &#124; </span> [<span style="color: Crimson"> BEBR </span>](bebr.html)
 
 * * *
 
