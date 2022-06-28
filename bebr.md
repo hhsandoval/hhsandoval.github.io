@@ -24,10 +24,10 @@ PhD in Economics, UW-Madison, 2015
     * Role: Principal Investigator 
     * Reports: <span style="color: teal"> [Economic Impact Study](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) </span> <span style="color: maroon"> &#124; </span>  [Major Events Study](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
 
-3. Volusia County Public Investment Study. Commissioned by the Daytona Regional Chamber of Commerce and the Civic League of the Halifax Area, 2021. 
+3. </span> <span style="color: teal">  Research Productivity of the University of Florida Clinical and Translational Science Institute </span>. Sponsored by the UF Clinical and Translational Science Institute (UF CTSI), 2021. 
     * Role: Principal Investigator 
 
-4. Research Productivity of the University of Florida Clinical and Translational Science Institute. Sponsored by the UF Clinical and Translational Science Institute (UF CTSI), 2021. 
+4. Volusia County Public Investment Study. Commissioned by the Daytona Regional Chamber of Commerce and the Civic League of the Halifax Area, 2020. 
     * Role: Principal Investigator 
 
 5. Florida Assisted Living Facilities Cost of Providing Care. Commissioned by the Florida Assisted Living Association (FALA), 2019.
@@ -37,7 +37,7 @@ PhD in Economics, UW-Madison, 2015
 
 6. An Update to the Net Impact of Retirees on Florida's State and Local Budgets. Commissioned by the Florida Department of Elder Affairs, 2018.
     * Role: Principal Investigator 
-    * [Report](http://www.elderaffairs.state.fl.us/)
+    * [Report](https://elderaffairs.org/wp-content/uploads/Retiree-Net-Impact-on-Floridas-Budgets-1.pdf) (previous report)
 
 7. Understanding Racial Inequity in Alachua County. Sponsored by Alachua County, Alachua County Public Schools, City of Gainesville, Gainesville Area Chamber of Commerce, Santa Fe College, UF Health, 2018.
     * Role: Principal Investigator 
