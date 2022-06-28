@@ -4,7 +4,7 @@ author: Hector H. Sandoval
 description: Hector H. Sandoval. Gainesville, Florida
 google_analytics:
 theme: jekyll-theme-minimal
-classes: wide
+#classes: wide
 
 # show_downloads: true
 # theme: minima
