@@ -24,7 +24,7 @@ PhD in Economics, UW-Madison, 2015
     * Role: Principal Investigator 
     * Reports: <span style="color: teal"> [Economic Impact Study](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) </span> <span style="color: maroon"> &#124; </span>  [Major Events Study](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
 
-3. </span> <span style="color: teal">  Research Productivity of the University of Florida Clinical and Translational Science Institute </span>. Sponsored by the UF Clinical and Translational Science Institute (UF CTSI), 2021. 
+3. <span style="color: teal">Research Productivity of the University of Florida Clinical and Translational Science Institute</span>. Sponsored by the UF Clinical and Translational Science Institute (UF CTSI), 2021. 
     * Role: Principal Investigator 
 
 4. Volusia County Public Investment Study. Commissioned by the Daytona Regional Chamber of Commerce and the Civic League of the Halifax Area, 2020. 
