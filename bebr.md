@@ -20,7 +20,7 @@ PhD in Economics, UW-Madison, 2015
 1. [Consumer Sentiment Index (CSI) Press Release](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
     * Current release:[ Release](https://www.bebr.ufl.edu/wp-content/uploads/2022/05/csi_2022_31_may.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2022/06/may-consumer-sentiment-falls/)
 
-2. Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. Commissioned by the Florida Department of State, Division of Library and Information Services, 2021. 
+2. <span style="color: Sienna"> Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. </span> *Commissioned by the Florida Department of State, Division of Library and Information Services,* 2021. 
     * Role: Principal Investigator 
     * Reports: [<span style="color: teal"> Economic Impact Study </span>](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Major Events Study </span>](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
 
