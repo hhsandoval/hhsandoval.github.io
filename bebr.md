@@ -16,8 +16,6 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Projects involved </span>
 
-#045F5F
-
 1. [<span style="color: teal"> Consumer Sentiment Index (CSI) Press Release </span>](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
     * Current release:[<span style="color: teal"> Release </span>](https://www.bebr.ufl.edu/wp-content/uploads/2022/06/csi_2022_28_june.pdf) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> UF News </span>](https://news.ufl.edu/2022/06/june-consumer-sentiment-increases/)
 
@@ -33,17 +31,17 @@ PhD in Economics, UW-Madison, 2015
 
 5. <span style="color: #463E3F"> Florida Assisted Living Facilities Cost of Providing Care. </span> *Commissioned by the Florida Assisted Living Association (FALA),* 2019.
     * Role: Principal Investigator 
-    * [Executive summary](https://www.fala.org/ALF-Cost-of-Care-Study.html)
-    * Media attention: [Sunshine State News](http://www.sunshinestatenews.com/story/florida-alfs-face-rising-cost-few-skilled-workers)
+    * [<span style="color: teal"> Executive summary </span>](https://www.fala.org/ALF-Cost-of-Care-Study.html)
+    * Media attention: [<span style="color: teal"> Sunshine State News </span>](http://www.sunshinestatenews.com/story/florida-alfs-face-rising-cost-few-skilled-workers)
 
 6. <span style="color: #463E3F"> An Update to the Net Impact of Retirees on Florida's State and Local Budgets. </span>  *Commissioned by the Florida Department of Elder Affairs,* 2018.
     * Role: Principal Investigator 
-    * [Report](https://elderaffairs.org/wp-content/uploads/Retiree-Net-Impact-on-Floridas-Budgets-1.pdf) (previous report)
+    * [<span style="color: teal"> Report </span>](https://elderaffairs.org/wp-content/uploads/Retiree-Net-Impact-on-Floridas-Budgets-1.pdf) (previous report)
 
 7. <span style="color: #463E3F"> Understanding Racial Inequity in Alachua County. </span> *Sponsored by Alachua County, Alachua County Public Schools, City of Gainesville, Gainesville Area Chamber of Commerce, Santa Fe College, and UF Health,* 2018.
     * Role: Principal Investigator 
-    * [Website](https://www.bebr.ufl.edu/economics/racial-inequity) <span style="color: maroon"> &#124; </span> [Report](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri1_baseline_report.pdf) <span style="color: maroon"> &#124; </span> [Slides](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri3_presentation_slides.pdf)
-    * Media attention: [Gainesville Sun](http://www.gainesville.com/news/20180113/disparity-study-alachua-county-blacks-face-bigger-hurdles?start=2) <span style="color: maroon"> &#124; </span> [The Independent Florida Alligator](https://www.alligator.org/news/uf-researchers-released-a-report-on-alachua-county-s-racial/article_9ddb58aa-fa22-11e7-8e34-a726da16f65c.html) 
+    * [<span style="color: teal"> Website </span>](https://www.bebr.ufl.edu/economics/racial-inequity) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Report](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri1_baseline_report.pdf) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Slides </span>](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri3_presentation_slides.pdf)
+    * Media attention: [<span style="color: teal"> Gainesville Sun](http://www.gainesville.com/news/20180113/disparity-study-alachua-county-blacks-face-bigger-hurdles?start=2) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> The Independent Florida Alligator </span>](https://www.alligator.org/news/uf-researchers-released-a-report-on-alachua-county-s-racial/article_9ddb58aa-fa22-11e7-8e34-a726da16f65c.html) 
 
 8. <span style="color: #463E3F"> Research Productivity and Economic Impacts of the University of Florida Clinical and Translational Science Institute. </span>  *Sponsored by the UF Clinical and Translational Science Institute (UF CTSI),* 2017.
     * Role: Principal Investigator
