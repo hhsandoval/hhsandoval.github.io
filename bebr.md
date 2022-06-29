@@ -18,39 +18,39 @@ PhD in Economics, UW-Madison, 2015
 
 #045F5F
 
-1. [<span style="color:#045F5F"> Consumer Sentiment Index (CSI) Press Release </span>](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
-    * Current release:[<span style="color:#045F5F"> Release </span>](https://www.bebr.ufl.edu/wp-content/uploads/2022/06/csi_2022_28_june.pdf) <span style="color:#5E0404"> &#124; </span> [<span style="color:#045F5F"> UF News </span>](https://news.ufl.edu/2022/06/june-consumer-sentiment-increases/)
+1. [<span style="color: teal"> Consumer Sentiment Index (CSI) Press Release </span>](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
+    * Current release:[<span style="color: teal"> Release </span>](https://www.bebr.ufl.edu/wp-content/uploads/2022/06/csi_2022_28_june.pdf) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> UF News </span>](https://news.ufl.edu/2022/06/june-consumer-sentiment-increases/)
 
-2. <span style="color: Sienna"> Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. </span> *Commissioned by the Florida Department of State, Division of Library and Information Services,* 2021. 
+2. <span style="color: #463E3F"> Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. </span> *Commissioned by the Florida Department of State, Division of Library and Information Services,* 2021. 
     * Role: Principal Investigator 
     * Reports: [<span style="color: teal"> Economic Impact Study </span>](https://dos.myflorida.com/library-archives/library-development/data/economic-impact/) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Major Events Study </span>](https://dos.myflorida.com/library-archives/library-development/data/major-events/)
 
-3. <span style="color: Sienna"> Research Productivity of the University of Florida Clinical and Translational Science Institute. </span> Sponsored by the UF Clinical and Translational Science Institute (UF CTSI), 2021. 
+3. <span style="color: #463E3F"> Research Productivity of the University of Florida Clinical and Translational Science Institute. </span> *Sponsored by the UF Clinical and Translational Science Institute (UF CTSI),* 2021. 
     * <span style="color: Sienna"> Role: </span>  Principal Investigator 
 
-4. Volusia County Public Investment Study. Commissioned by the Daytona Regional Chamber of Commerce and the Civic League of the Halifax Area, 2020. 
+4. <span style="color: #463E3F"> Volusia County Public Investment Study. </span> *Commissioned by the Daytona Regional Chamber of Commerce and the Civic League of the Halifax Area,* 2020. 
     * Role: Principal Investigator 
 
-5. Florida Assisted Living Facilities Cost of Providing Care. Commissioned by the Florida Assisted Living Association (FALA), 2019.
+5. <span style="color: #463E3F"> Florida Assisted Living Facilities Cost of Providing Care. </span> *Commissioned by the Florida Assisted Living Association (FALA),* 2019.
     * Role: Principal Investigator 
     * [Executive summary](https://www.fala.org/ALF-Cost-of-Care-Study.html)
     * Media attention: [Sunshine State News](http://www.sunshinestatenews.com/story/florida-alfs-face-rising-cost-few-skilled-workers)
 
-6. An Update to the Net Impact of Retirees on Florida's State and Local Budgets. Commissioned by the Florida Department of Elder Affairs, 2018.
+6. <span style="color: #463E3F"> An Update to the Net Impact of Retirees on Florida's State and Local Budgets. </span>  *Commissioned by the Florida Department of Elder Affairs,* 2018.
     * Role: Principal Investigator 
     * [Report](https://elderaffairs.org/wp-content/uploads/Retiree-Net-Impact-on-Floridas-Budgets-1.pdf) (previous report)
 
-7. Understanding Racial Inequity in Alachua County. Sponsored by Alachua County, Alachua County Public Schools, City of Gainesville, Gainesville Area Chamber of Commerce, Santa Fe College, UF Health, 2018.
+7. <span style="color: #463E3F"> Understanding Racial Inequity in Alachua County. </span> *Sponsored by Alachua County, Alachua County Public Schools, City of Gainesville, Gainesville Area Chamber of Commerce, Santa Fe College, and UF Health,* 2018.
     * Role: Principal Investigator 
     * [Website](https://www.bebr.ufl.edu/economics/racial-inequity) <span style="color: maroon"> &#124; </span> [Report](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri1_baseline_report.pdf) <span style="color: maroon"> &#124; </span> [Slides](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri3_presentation_slides.pdf)
     * Media attention: [Gainesville Sun](http://www.gainesville.com/news/20180113/disparity-study-alachua-county-blacks-face-bigger-hurdles?start=2) <span style="color: maroon"> &#124; </span> [The Independent Florida Alligator](https://www.alligator.org/news/uf-researchers-released-a-report-on-alachua-county-s-racial/article_9ddb58aa-fa22-11e7-8e34-a726da16f65c.html) 
 
-8. Research Productivity and Economic Impacts of the University of Florida Clinical and Translational Science Institute. Sponsored by the UF Clinical and Translational Science Institute (UF CTSI), 2017.
+8. <span style="color: #463E3F"> Research Productivity and Economic Impacts of the University of Florida Clinical and Translational Science Institute. </span>  *Sponsored by the UF Clinical and Translational Science Institute (UF CTSI),* 2017.
     * Role: Principal Investigator
     * [Report](https://www.ctsi.ufl.edu/about/research-initiatives/economic-impact-analysis/) 
 
-9. Economic Impact Study for Cox Communications in Florida. Commissioned by Cox Communications Southeast Region, 2016.
+9. <span style="color: #463E3F"> Economic Impact Study for Cox Communications in Florida. </span> *Commissioned by Cox Communications Southeast Region,* 2016.
     * Role: Principal Investigator 
 
-10. Economic Impact Analysis for Polk County Healthcare Program. Commissioned by Polk County’s Indigent Healthcare Division, 2016.
+10. <span style="color: #463E3F"> Economic Impact Analysis for Polk County Healthcare Program. </span> Commissioned by Polk County’s Indigent Healthcare Division,* 2016.
     * Role: Principal Investigator 
