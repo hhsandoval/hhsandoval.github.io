@@ -40,12 +40,12 @@ PhD in Economics, UW-Madison, 2015
 
 7. <span style="color: Charcoal"> Understanding Racial Inequity in Alachua County. </span> *Sponsored by Alachua County, Alachua County Public Schools, City of Gainesville, Gainesville Area Chamber of Commerce, Santa Fe College, and UF Health,* 2018.
     * Role: Principal Investigator 
-    * [<span style="color: teal"> Website </span>](https://www.bebr.ufl.edu/economics/racial-inequity) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Report](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri1_baseline_report.pdf) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Slides </span>](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri3_presentation_slides.pdf)
-    * Media attention: [<span style="color: teal"> Gainesville Sun](http://www.gainesville.com/news/20180113/disparity-study-alachua-county-blacks-face-bigger-hurdles?start=2) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> The Independent Florida Alligator </span>](https://www.alligator.org/news/uf-researchers-released-a-report-on-alachua-county-s-racial/article_9ddb58aa-fa22-11e7-8e34-a726da16f65c.html) 
+    * [<span style="color: teal"> Website </span>](https://www.bebr.ufl.edu/economics/racial-inequity) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Report </span>](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri1_baseline_report.pdf) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Slides </span>](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri3_presentation_slides.pdf)
+    * Media attention: [<span style="color: teal"> Gainesville Sun </span>](http://www.gainesville.com/news/20180113/disparity-study-alachua-county-blacks-face-bigger-hurdles?start=2) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> The Independent Florida Alligator </span>](https://www.alligator.org/news/uf-researchers-released-a-report-on-alachua-county-s-racial/article_9ddb58aa-fa22-11e7-8e34-a726da16f65c.html) 
 
 8. <span style="color: Charcoal"> Research Productivity and Economic Impacts of the University of Florida Clinical and Translational Science Institute. </span>  *Sponsored by the UF Clinical and Translational Science Institute (UF CTSI),* 2017.
     * Role: Principal Investigator
-    * [Report](https://www.ctsi.ufl.edu/about/research-initiatives/economic-impact-analysis/) 
+    * [<span style="color: teal"> Report </span>](https://www.ctsi.ufl.edu/about/research-initiatives/economic-impact-analysis/) 
 
 9. <span style="color: Charcoal"> Economic Impact Study for Cox Communications in Florida. </span> *Commissioned by Cox Communications Southeast Region,* 2016.
     * Role: Principal Investigator 
