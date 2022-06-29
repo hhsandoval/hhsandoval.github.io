@@ -16,9 +16,10 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Projects involved </span>
 
+#045F5F
 
-1. [Consumer Sentiment Index (CSI) Press Release](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
-    * Current release:[ Release](https://www.bebr.ufl.edu/wp-content/uploads/2022/05/csi_2022_31_may.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2022/06/may-consumer-sentiment-falls/)
+1. [<span style="color:#045F5F"> Consumer Sentiment Index (CSI) Press Release </span>](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
+    * Current release:[<span style="color:#045F5F"> Release </span>](https://www.bebr.ufl.edu/wp-content/uploads/2022/06/csi_2022_28_june.pdf) <span style="color:#5E0404"> &#124; </span> [<span style="color:#045F5F"> UF News </span>](https://news.ufl.edu/2022/06/june-consumer-sentiment-increases/)
 
 2. <span style="color: Sienna"> Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. </span> *Commissioned by the Florida Department of State, Division of Library and Information Services,* 2021. 
     * Role: Principal Investigator 
