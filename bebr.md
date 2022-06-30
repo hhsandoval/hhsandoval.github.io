@@ -10,14 +10,14 @@ PhD in Economics, UW-Madison, 2015
 `E-mail:` [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
 
 
-[<span style="color: IndianRed"> Home </span>](index.html) <span style="color: #5CCCCC"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: #5CCCCC"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: #5CCCCC"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
+[<span style="color: IndianRed"> Home </span>](index.html) <span style="color: Burgundy"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: Burgundy"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: Burgundy"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
 
 * * *
 
 ### <span style="color: maroon"> Projects involved </span>
 
-1. [<span style="color: teal"> Consumer Sentiment Index (CSI) Press Release </span>](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
-    * Current release:[<span style="color: teal"> Release </span>](https://www.bebr.ufl.edu/wp-content/uploads/2022/06/csi_2022_28_june.pdf) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> UF News </span>](https://news.ufl.edu/2022/06/june-consumer-sentiment-increases/)
+1. [Consumer Sentiment Index (CSI) Press Release](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
+    * Current release:[Release](https://www.bebr.ufl.edu/wp-content/uploads/2022/06/csi_2022_28_june.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2022/06/june-consumer-sentiment-increases/)
 
 2. <span style="color: #3F000F"> Florida's Public Libraries: 21st Century Major Events and 2020 Economic Impact. </span> *Commissioned by the Florida Department of State, Division of Library and Information Services,* 2021. 
     * Role: Principal Investigator 
