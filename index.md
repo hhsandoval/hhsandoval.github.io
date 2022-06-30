@@ -10,7 +10,7 @@ PhD in Economics, UW-Madison, 2015
 `E-mail:` [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
 
 
-[<span style="color: teal"> Home </span>](index.html) <span style="color: maroon"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: teal"> Download CV </span> </a> <span style="color: maroon"> &#124; </span> [<span style="color: teal"> Teaching </span>](teaching.html) <span style="color: maroon"> &#124; </span> [<span style="color: teal"> BEBR </span>](bebr.html)
+[<span style="color: IndianRed"> Home </span>](index.html) <span style="color: Burgundy"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: Burgundy"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: Burgundy"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
 
 * * *
 
@@ -39,21 +39,21 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Working Papers </span>
 
-1. <span style="color: navy"> **Sentiments and Spending Intentions: Evidence from Florida** </span>  
+1. <span style="color: #3F000F"> Sentiments and Spending Intentions: Evidence from Florida </span>  
    with Anita Walsh *(under review)*
 
-2. <span style="color: teal"> **Social Interactions and Social Divisions in Program Intervention** </span>  
+2. <span style="color: #3F000F"> Social Interactions and Social Divisions in Program Intervention </span>  
    *(under review)*
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1. <span style="color: navy"> **Solar Panel Adoption in SMEs in Developing Countries** </span>  
+1. <span style="color: #3F000F"> Solar Panel Adoption in SMEs in Developing Countries </span>  
    with Pedro Hancevic
 
-2. <span style="color: navy"> **Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas** </span>
+2. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
    with Anita Walsh
 
-3. <span style="color: navy"> **Undercoverage and Partial Identification with Covariates** </span>  
+3. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>  
    with Armand Kapllani   
 
 
