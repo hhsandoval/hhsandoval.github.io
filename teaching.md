@@ -10,16 +10,16 @@ PhD in Economics, UW-Madison, 2015
 `E-mail:` [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
 
 
-[<span style="color:#954535"> Home </span>](index.html) <span style="color:#358494"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color:#954535"> Download CV </span> </a> <span style="color:#358494"> &#124; </span> [<span style="color:#954535"> Teaching </span>](teaching.html) <span style="color:#358494"> &#124; </span> [<span style="color:#954535"> BEBR </span>](bebr.html)
+[<span style="color: IndianRed"> Home </span>](index.html) <span style="color: Burgundy"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: Burgundy"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: Burgundy"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
 
 * * *
 
 ### <span style="color: maroon"> Teaching </span>
 
-1. **ECO 7427: Econometric Methods II** (Ph.D. level)
-    * Most recent: <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank"> <span style="color: teal"> Syllabus (Spring 2022)</span> </a> 
+1. <span style="color: #3F000F"> ECO 7427: Econometric Methods II </span> (Ph.D. level) 
+    * Most recent: [Syllabus (Spring 2022)](https://hhsandoval.github.io/E7427S2022.pdf)
 
-2. **ECO 5435: Economic Data Analysis** (Master level)
-    * Most recent: <a href="https://hhsandoval.github.io/E5435S2022.pdf" target="_blank"> <span style="color: teal"> Syllabus (Spring 2022)</span> </a> 
+2. <span style="color: #3F000F"> ECO 5435: Economic Data Analysis </span> (Master level) 
+    * Most recent: [Syllabus (Spring 2022)](https://hhsandoval.github.io/E5435S2022.pdf) 
 
 
