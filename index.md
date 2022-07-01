@@ -16,10 +16,10 @@ PhD in Economics, UW-Madison, 2015
 ### <span style="color: maroon"> Refereed Publications </span>
 
 1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](https://www.iaee.org/en/publications/eeepscope.aspx)  
-   with Pedro Hancevic. *Economics of Energy & Environmental Policy (forthcoming)*
+   with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023*
 
 2. [The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)
-   with Emanuel Garcia Munoz. *Journal of Human Capital (forthcoming)*
+   with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022*
 
 3. [Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)
    with Pedro Hancevic. *Journal of Environmental Economics and Management, Vol 113, 102656, 2022*
