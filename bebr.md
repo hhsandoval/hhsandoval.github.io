@@ -49,5 +49,5 @@ PhD in Economics, UW-Madison, 2015
 9. <span style="color: #3F000F"> Economic Impact Study for Cox Communications in Florida. </span> *Commissioned by Cox Communications Southeast Region,* 2016.
     * <span style="color: Sienna"> Role: </span>  Principal Investigator 
 
-10. <span style="color: #3F000F"> Economic Impact Analysis for Polk County Healthcare Program. </span> Commissioned by Polk County’s Indigent Healthcare Division,* 2016.
+10. <span style="color: #3F000F"> Economic Impact Analysis for Polk County Healthcare Program. </span> *Commissioned by Polk County’s Indigent Healthcare Division,* 2016.
     * <span style="color: Sienna"> Role: </span>  Principal Investigator 
