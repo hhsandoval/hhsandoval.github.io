@@ -1,4 +1,4 @@
-title: <span style="color: #3F000F"> Hector H. Sandoval's Website </span>
+title: <a style="color: #3F000F"> Hector H. Sandoval&#39;s Website </a>
 logo: "hhsg202205.jpg"
 author: Hector H. Sandoval
 description: Hector H. Sandoval. Gainesville, Florida
@@ -19,3 +19,4 @@ github: is\_project\_page:false
 # excerpt_length: 100
 # show_excerpts: true
 # https://user-images.githubusercontent.com/95992942/145701862-438f789f-30d0-4143-948b-695a9c4d9f90.jpg
+<a href="https://jekyllrb.com" target="_blank">Jekyll</a> 
