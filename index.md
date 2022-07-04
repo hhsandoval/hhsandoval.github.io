@@ -38,10 +38,10 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Working Papers </span>
 
-1. <span style="color: #3F000F"> Sentiments and Spending Intentions: Evidence from Florida </span>  
+1. [Sentiments and Spending Intentions: Evidence from Florida](https://hhsandoval.github.io/CSI2022.pdf)  
    with Anita Walsh *(under review)*
 
-2. <span style="color: #3F000F"> Social Interactions and Social Divisions in Program Intervention </span>  
+2. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
    *(under review)*
 
 ### <span style="color: maroon"> Work in Progress </span>
