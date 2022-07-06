@@ -22,6 +22,9 @@ PhD in Economics, UW-Madison, 2015
     * Most recent: [Syllabus (Spring 2022)](https://hhsandoval.github.io/E5435S2022.pdf) 
 
 
+
+<!╌  
+
 * * *
 
 <a href="javascript:toggle('box1');">ONE</a> : <a href="javascript:toggle('box2');">TWO</a>
@@ -42,3 +45,5 @@ Y (display:none;)
 <div class="invisible menu">
   menu content
 </div>
+
+╌>
