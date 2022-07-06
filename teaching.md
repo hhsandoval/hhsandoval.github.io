@@ -22,3 +22,15 @@ PhD in Economics, UW-Madison, 2015
     * Most recent: [Syllabus (Spring 2022)](https://hhsandoval.github.io/E5435S2022.pdf) 
 
 
+* * *
+
+<a href="javascript:toggle('box1');">ONE</a> : <a href="javascript:toggle('box2');">TWO</a>
+
+<div id="box1" class="toggle-divs" style="display: block;">
+X (display:block;)
+</div>
+
+<div id="box2" class="toggle-divs" style="display: none;">
+Y (display:none;)
+</div>
+
