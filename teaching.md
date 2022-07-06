@@ -34,3 +34,11 @@ X (display:block;)
 Y (display:none;)
 </div>
 
+* * *
+
+<div class="menu-toggle">
+  Click me to toggle
+</div>
+<div class="invisible menu">
+  menu content
+</div>
