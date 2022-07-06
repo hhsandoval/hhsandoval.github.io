@@ -23,7 +23,7 @@ PhD in Economics, UW-Madison, 2015
 
 
 
-<!╌  
+<!--  
 
 * * *
 
@@ -48,4 +48,6 @@ Y (display:none;)
 
 Google search: toggle (hide/show) an element in html for a GitHub page
 
-╌>
+-->
+
+
