@@ -46,4 +46,6 @@ Y (display:none;)
   menu content
 </div>
 
+Google search: toggle (hide/show) an element in html for a GitHub page
+
 ╌>
