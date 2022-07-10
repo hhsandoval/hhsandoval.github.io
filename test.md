@@ -1,3 +1,20 @@
+<script>
+    function expandIt(id) {
+      var linkObj = document.getElementById(id+"_link");
+      var textObj = document.getElementById(id);
+      if (textObj.style.display == "block") {
+        textObj.style.display   = "none";
+        linkObj.innerHTML       = "Show Abstract";
+        linkObj.style.color = "#48AE00";   
+      } else {
+        textObj.style.display   = "block";
+        linkObj.innerHTML       = "Hide Abstract";
+	   linkObj.style.color = "#48AE00";  
+      }
+    }
+</script>
+
+
 ---
 layout: default
 ---
@@ -20,10 +37,9 @@ PhD in Economics, UW-Madison, 2015
     * Most recent: [Syllabus (Spring 2022)](https://hhsandoval.github.io/E7427S2022.pdf)
 
 <p style="margin-bottom: 10"> &nbsp; &nbsp; 1. &nbsp; <a href="https://hhsandoval.github.io/E7427S2022.pdf"> <strong> Syllabus </strong> </a> <br> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=#3F000F> <i> University of Florida </i></font>. &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF4F00> <i> University of Florida </i></font>. &nbsp; &nbsp; &nbsp; &nbsp; <br> 
 <font size="2">[<a id="hhsg_link" href="javascript:expandIt('hhsg');" font size="2"; style="color: #48AE00"> Show Abstract</a>]<br /> <div id="hhsg" style="display: none" class="abstract">
-<p style="margin-left:4em; margin-right: 45%; text-align:justify" > <b> Abstract: </b> 
-Hola, me llamo Hector. </div> </p> </font size="3">
+<p style="margin-left:4em; margin-right: 45%; text-align:justify" > <b> Abstract: </b> Hola, me llamo Hector. </div> </p> </font size="3">
 
 
  <!--
