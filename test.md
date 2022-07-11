@@ -60,7 +60,7 @@ Hola, me llamo Hector. </div> </p> </font size="3">
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <br>  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <font color=FF4F00> <i> Energy Economics</i></font>, 2023, 1(1): 11-136. &nbsp;  &nbsp; <a href="https://hhsandoval.github.io"> <br> 
 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  Data Page</a> (Last updated 1/1/23). <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://hhsandoval.github.io"> Replication</a>.  
  &nbsp;  &nbsp; 
-<font size="2">[<a id="Skills_link" href="javascript:expandIt('Skills');" font size="2"; style="color: #48AE00">Show Abstract</a>]<br /> <div id="Skills" style="display: none" class="abstract">
+<font size="2">[<a id="Skills_link" href="javascript:expandIt('Skills');" font size="2"; style="color: #48AE00"> Show Abstract </a> ]<br> <div id="Skills" style="display: none" class="abstract">
 <p style="margin-left:4em; margin-right: 45%; text-align:justify" > <b> Abstract: </b> 
 Using X we show Y.  </div> </p> </font size="3">
 
