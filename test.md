@@ -18,6 +18,17 @@ layout: default
     }
 </script>
 
+
+<script type="text/javascript">
+  function unhide(divID) {
+    var item = document.getElementById(divID);
+    if (item) {
+      item.className=(item.className=='hidden')?'unhidden':'hidden';
+    }
+  }
+</script>
+
+
 <span style="color: #3F000F"> Assistant Professor, </span> Department of Economics, 2015 - Present  
 <span style="color: #3F000F"> Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), </span>  2015 - Present  
 University of Florida  
@@ -52,26 +63,20 @@ PhD in Economics, UW-Madison, 2015
 Using X we show Y.  </div> </p> </font size="3">
 
 
+<li><p> <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Looking into X: An Experiment on Y</a>, with HH and SG, <b>EE</b>, in press, <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Data</a>, <a href="javascript:showHide('mno_crystalballs');">Show/Hide Abstract</a>
+<div id="mno_crystalballs" class="abstract" style="display:none;">We study X and Y.
+</div>
+</p></li> 
 
 
- <!--
+ <!-- 
 view-source:http://davidyyang.com/
 --> 
 
-<script type="text/javascript">
-  function unhide(divID) {
-    var item = document.getElementById(divID);
-    if (item) {
-      item.className=(item.className=='hidden')?'unhidden':'hidden';
-    }
-  }
-</script>
 
 
- <li><p> <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Looking into X: An Experiment on Y</a>, with HH and SG, <b>EE</b>, in press, <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Data</a>, <a href="javascript:showHide('mno_crystalballs');">Show/Hide Abstract</a>
- <div id="mno_crystalballs" class="abstract" style="display:none;">We study X and Y.
- </div>
- </p></li> 
+
+
  
 
    
