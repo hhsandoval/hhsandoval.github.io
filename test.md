@@ -55,14 +55,25 @@ Using X we show Y.  </div> </p> </font size="3">
 
 
  <!--
-
-<li><p>   
-<a href="javascript:showHide('mno_crystalballs');">Show/Hide Abstract</a>
-<div id="mno_crystalballs" class="abstract" style="display:none;"> We truthfully.
-</div>
-</p></li>   
- 
+view-source:http://davidyyang.com/
 --> 
+
+<script type="text/javascript">
+  function unhide(divID) {
+    var item = document.getElementById(divID);
+    if (item) {
+      item.className=(item.className=='hidden')?'unhidden':'hidden';
+    }
+  }
+</script>
+
+
+ <li><p> <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Looking into X: An Experiment on Y</a>, with HH and SG, <b>EE</b>, in press, <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Data</a>, <a href="javascript:showHide('mno_crystalballs');">Show/Hide Abstract</a>
+ <div id="mno_crystalballs" class="abstract" style="display:none;">We study X and Y.
+ </div>
+ </p></li> 
+ 
+
    
    
    
