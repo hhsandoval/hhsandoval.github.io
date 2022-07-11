@@ -18,7 +18,6 @@ layout: default
     }
 </script>
 
-
 <script type="text/javascript">
   function unhide(divID) {
     var item = document.getElementById(divID);
@@ -39,7 +38,6 @@ PhD in Economics, UW-Madison, 2015
 [<span style="color: IndianRed"> Home </span>](index.html) <span style="color: #A70D2A"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
 
 * * *
-
 
 ### <span style="color: maroon"> Test </span>
 
