@@ -15,7 +15,7 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: maroon"> Refereed Publications </span>
 
-1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](https://www.iaee.org/en/publications/eeepscope.aspx)  
+1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
    with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023*
 
 2. [The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)
