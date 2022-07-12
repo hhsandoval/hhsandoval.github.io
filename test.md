@@ -49,15 +49,12 @@ PhD in Economics, UW-Madison, 2015
 
 #### <span style="color: #A70D2A"> unhide: w3schools </span>
 
-<p>Click the "Try it" button to toggle between hiding and showing the DIV element:</p>
-
-<button onclick="myFunction()">Try it</button>
-
+<p> Differential impact of  </p>
+<button onclick="myFunction()"> [Show/Hide Abstract </button>
 <div id="myDIV">
-This is my DIV element.
+<b>Abstract:</b> This paper study ... 
 </div>
 
-<p><b>Note:</b> The element will not take up any space when the display property set to "none".</p>
 
 <script>
 function myFunction() {
@@ -69,6 +66,17 @@ function myFunction() {
   }
 }
 </script>
+
+* * *
+
+### <span style="color: maroon"> Refereed Publications </span>
+
+1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
+   with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023* <br>
+   <button onclick="myFunction()"> [Show/Hide Abstract </button>
+   <div id="myDIV">
+   <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
+   </div>
 
 * * *
 
