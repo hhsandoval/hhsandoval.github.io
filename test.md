@@ -32,10 +32,32 @@ PhD in Economics, UW-Madison, 2015
 
 ### <span style="color: teal"> unhide: w3schools </span>
 
-<p> Differential impact of  </p>
-<button onclick="myFunction()"> [Show/Hide Abstract] </button>
+<style>
+.block {
+  display: block;
+  width: 25%;
+  border: none;
+  background-color: white;
+  color: IndianRed;
+  padding: 10px 10px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.block:hover {
+  background-color: #ddd;
+  color: IndianRed;
+}
+</style>
+
+
+
+1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
+   with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023* <br>
+<button class="block" onclick="myFunction()"> [Show/Hide Abstract] </button>   
 <div id="myDIV">
-<b>Abstract:</b>  Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. 
+<b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
 </div>
 
 <script>
@@ -50,31 +72,7 @@ function myFunction() {
 </script>
 
 
-* * *
 
- <!--
-
-### <span style="color: maroon"> Refereed Publications </span>
-
-1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
-   with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023* <br>
-   <button onclick="myFunction()"> [Show/Hide Abstract] </button>
-   <div id="myABS">
-   <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
-   </div>
-
-<script>
-function myFunction() {
-  var x = document.getElementById("myABS");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
-
--->
 
 * * *
 
@@ -107,16 +105,4 @@ Hola, me llamo Hector. </div> </p> </font size="3">
 -->
 
 
-
-
-
-
-
-
- 
-
-   
-   
-   
-   
    
