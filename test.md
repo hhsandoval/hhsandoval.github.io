@@ -73,9 +73,21 @@ function myFunction() {
 1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
    with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023* <br>
    <button onclick="myFunction()"> [Show/Hide Abstract] </button>
-   <div id="myDIV">
+   <div id="myABS">
    <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
    </div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myABS");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
 
 * * *
 
