@@ -2,16 +2,6 @@
 layout: default
 ---
 
-<script type="text/javascript">
-  function unhide(divID) {
-    var item = document.getElementById(divID);
-    if (item) {
-      item.className=(item.className=='hidden')?'unhidden':'hidden';
-    }
-  }
-</script>
-
-
 <span style="color: #3F000F"> Assistant Professor, </span> Department of Economics, 2015 - Present  
 <span style="color: #3F000F"> Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), </span>  2015 - Present  
 University of Florida  
