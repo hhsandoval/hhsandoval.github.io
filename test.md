@@ -51,7 +51,7 @@ PhD in Economics, UW-Madison, 2015
 view-source:http://davidyyang.com/
 --> 
 
-#### <span style="color: teal"> unhide: real </span>
+#### <span style="color: IndianRed"> unhide: real </span>
 
 <p style="font-weight:600"> Syllabus </p>
 <p style="padding-left:30px;padding-bottom:0px;margin-top:-3px;font-size:11px">Hector H. Sandoval</p>  <br>
