@@ -51,29 +51,23 @@ PhD in Economics, UW-Madison, 2015
 view-source:http://davidyyang.com/
 --> 
 
-#### <span style="color: IndianRed"> unhide: real </span>
+#### <span style="color: #A70D2A"> unhide: real </span>
 
 <p style="font-weight:600"> Syllabus </p>
 <p style="padding-left:30px;padding-bottom:0px;margin-top:-3px;font-size:11px">Hector H. Sandoval</p>  <br>
-
-<p style="padding-left:30px;padding-bottom:10px;margin-top:-1px;font-size:11px;">
-<a href="javascript:unhide('ABShhsg');">[Show/Hide Abstract]</a>
-<br>
-<a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">[Most recent: Spring 2022]</a> 
-<br>
-    <div id="ABShhsg" class="hidden">
-    <p style="padding-left:30px;padding-bottom:10px;margin-top:0px;font-size:11px;">
-    Abstract: data analysis showing X + Y.
-</p>
+<p style="padding-left:30px;padding-bottom:10px;margin-top:-1px;font-size:11px;"> <a href="javascript:unhide('ABShhsg');">[Show/Hide Abstract]</a> <br>
+<a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">[Most recent: Spring 2022]</a> <br>
+<div id="ABShhsg" class="hidden"> Abstract: data analysis showing X + Y.
 </div>
 </p>
 
 #### <span style="color: teal"> unhide: another version </span>
 
-<li><p> <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Looking into X: An Experiment on Y</a>, with HH and SG, <b>EE</b>, in press, <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Data</a>, <a href="javascript:unhide('mno_crystalballs');">Show/Hide Abstract</a>
-<div id="mno_crystalballs" class="abstract" style="display:none;">We study X and Y.
+<p> <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank"> Syllabus </a> by Hector <br> 
+<a href="javascript:unhide('balls');"> [Show/Hide Abstract} </a>
+<div id="balls" class="abstract" style="display:none;"> Abstract: data analysis showing X + Y.
 </div>
-</p></li> 
+</p>
 
 
 <!-- 
