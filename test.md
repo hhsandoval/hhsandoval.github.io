@@ -45,6 +45,37 @@ PhD in Economics, UW-Madison, 2015
 1. <span style="color: #3F000F"> ECO 7427: Econometric Methods II </span> (Ph.D. level) 
     * Most recent: [Syllabus (Spring 2022)](https://hhsandoval.github.io/E7427S2022.pdf)
 
+* * *
+
+ <!-- 
+view-source:http://davidyyang.com/
+--> 
+
+#### <span style="color: teal"> unhide: real</span>
+
+<p style="font-weight:600"> Syllabus </p>
+<p style="padding-left:30px;padding-bottom:0px;margin-top:-3px;font-size:11px">Hector H. Sandoval</p>
+
+<p style="padding-left:30px;padding-bottom:10px;margin-top:-1px;font-size:11px;">
+
+<a href="javascript:unhide('ABShhsg');">[Show/Hide Abstract]</a>
+<br>
+<a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">[Most recent (Spring 2022)]</a> 
+<br>
+    <div id="ABShhsg" class="hidden">
+    <p style="padding-left:30px;padding-bottom:10px;margin-top:0px;font-size:11px;">
+    Abstract: data analysis showing X + Y.
+    </p>
+    </div>
+
+#### <span style="color: teal"> unhide: another version </span>
+
+<li><p> <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Looking into X: An Experiment on Y</a>, with HH and SG, <b>EE</b>, in press, <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Data</a>, <a href="javascript:unhide('mno_crystalballs');">Show/Hide Abstract</a>
+<div id="mno_crystalballs" class="abstract" style="display:none;">We study X and Y.
+</div>
+</p></li> 
+
+
 <!-- 
 <p style="margin-bottom: 10"> &nbsp; &nbsp; 1. &nbsp; <a href="https://hhsandoval.github.io/E7427S2022.pdf"> Syllabus </a> <br> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF4F00> <i> University of Florida. </i></font>  &nbsp; &nbsp; &nbsp; &nbsp; <br> 
@@ -55,12 +86,7 @@ Hola, me llamo Hector. </div> </p> </font size="3">
 
 * * *
 
-<li><p> <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Looking into X: An Experiment on Y</a>, with HH and SG, <b>EE</b>, in press, <a href="https://hhsandoval.github.io/E7427S2022.pdf" target="_blank">Data</a>, <a href="javascript:showHide('mno_crystalballs');">Show/Hide Abstract</a>
-<div id="mno_crystalballs" class="abstract" style="display:none;">We study X and Y.
-</div>
-</p></li> 
-
-* * *
+#### <span style="color: teal"> expandit: another version </span>
 
 <p style="margin-bottom: 10">   &nbsp; &nbsp;  1. &nbsp; <a href="https://hhsandoval.github.io/E7427S2022.pdf"> <strong> Syllabus </a> </strong> <br> 
 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; (with <a href="https://hhsandoval.github.io/index.html"> Hector</a>, <a href="https://hhsandoval.github.io/index.html"> Hector G</a>, and <a href="https://hhsandoval.github.io/index.html"> Sandoval</a>) <br>
@@ -74,10 +100,6 @@ Using X we show Y.  </div> </p> </font>
 
 
 
-
- <!-- 
-view-source:http://davidyyang.com/
---> 
 
 
 
