@@ -50,11 +50,10 @@ PhD in Economics, UW-Madison, 2015
 #### <span style="color: #A70D2A"> unhide: w3schools </span>
 
 <p> Differential impact of  </p>
-<button onclick="myFunction()"> [Show/Hide Abstract </button>
+<button onclick="myFunction()"> [Show/Hide Abstract] </button>
 <div id="myDIV">
 <b>Abstract:</b> This paper study ... 
 </div>
-
 
 <script>
 function myFunction() {
@@ -73,16 +72,14 @@ function myFunction() {
 
 1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
    with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023* <br>
-   <button onclick="myFunction()"> [Show/Hide Abstract </button>
+   <button onclick="myFunction()"> [Show/Hide Abstract] </button>
    <div id="myDIV">
    <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
    </div>
 
 * * *
 
- <!-- 
-view-source:http://davidyyang.com/
---> 
+ <!-- view-source:http://davidyyang.com/
 
 #### <span style="color: #A70D2A"> unhide: real </span>
 
@@ -102,28 +99,12 @@ view-source:http://davidyyang.com/
 </div>
 </p>
 
-
-<!-- 
 <p style="margin-bottom: 10"> &nbsp; &nbsp; 1. &nbsp; <a href="https://hhsandoval.github.io/E7427S2022.pdf"> Syllabus </a> <br> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF4F00> <i> University of Florida. </i></font>  &nbsp; &nbsp; &nbsp; &nbsp; <br> 
 <font size="2">[<a id="hhsg_link" href="javascript:expandIt('hhsg');" font size="2"; style="color: #48AE00"> Show Abstract</a>]<br /> <div id="hhsg" style="display: none" class="abstract">
 <p style="margin-left:4em; margin-right: 45%; text-align:justify" > <b> Abstract: </b> 
 Hola, me llamo Hector. </div> </p> </font size="3">
 -->
-
-* * *
-
-#### <span style="color: teal"> expandit: another version </span>
-
-<p style="margin-bottom: 10">   &nbsp; &nbsp;  1. &nbsp; <a href="https://hhsandoval.github.io/E7427S2022.pdf"> <strong> Syllabus </a> </strong> <br> 
-&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; (with <a href="https://hhsandoval.github.io/index.html"> Hector</a>, <a href="https://hhsandoval.github.io/index.html"> Hector G</a>, and <a href="https://hhsandoval.github.io/index.html"> Sandoval</a>) <br>
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <br>  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <font color=FF4F00> <i> Energy Economics</i></font>, 2023, 1(1): 11-136. &nbsp;  &nbsp; <a href="https://hhsandoval.github.io"> <br> 
-&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  Data Page</a> (Last updated 1/1/23). <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://hhsandoval.github.io"> Replication</a>. &nbsp;  &nbsp; 
-<font size="2">[<a id="Skills_link" href="javascript:expandIt('Skills');" font size="2"; style="color: #48AE00"> Show Abstract </a>] <br> 
-<div id="Skills" style="display: none" class="abstract">
-<p style="margin-left:4em; margin-right: 45%; text-align:justify" > <b> Abstract: </b> 
-Using X we show Y.  </div> </p> </font>
-
 
 
 
