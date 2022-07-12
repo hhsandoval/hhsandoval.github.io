@@ -2,23 +2,6 @@
 layout: default
 ---
 
-<script>
-    function expandIt(id) {
-      var linkObj = document.getElementById(id+"_link");
-      var textObj = document.getElementById(id);
-      if (textObj.style.display == "block") {
-        textObj.style.display   = "none";
-        linkObj.innerHTML       = "Show Abstract";
-        linkObj.style.color = "#48AE00";   
-      } else {
-        textObj.style.display   = "block";
-        linkObj.innerHTML       = "Hide Abstract";
-	   linkObj.style.color = "#48AE00";  
-      }
-    }
-</script>
-
-
 <script type="text/javascript">
   function unhide(divID) {
     var item = document.getElementById(divID);
@@ -47,12 +30,12 @@ PhD in Economics, UW-Madison, 2015
 
 * * *
 
-#### <span style="color: #A70D2A"> unhide: w3schools </span>
+### <span style="color: teal"> unhide: w3schools </span>
 
 <p> Differential impact of  </p>
 <button onclick="myFunction()"> [Show/Hide Abstract] </button>
 <div id="myDIV">
-<b>Abstract:</b> This paper study ... 
+<b>Abstract:</b>  Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. 
 </div>
 
 <script>
@@ -66,7 +49,10 @@ function myFunction() {
 }
 </script>
 
+
 * * *
+
+ <!--
 
 ### <span style="color: maroon"> Refereed Publications </span>
 
@@ -88,10 +74,12 @@ function myFunction() {
 }
 </script>
 
+-->
 
 * * *
 
- <!-- view-source:http://davidyyang.com/
+ <!--
+view-source:http://davidyyang.com/
 
 #### <span style="color: #A70D2A"> unhide: real </span>
 
