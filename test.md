@@ -18,16 +18,15 @@ PhD in Economics, UW-Madison, 2015
 <style>
 .block {
   display: block;
-  width: 25%;
+  width: 100%;
   border: none;
   background-color: white;
   color: IndianRed;
   padding: 10px 10px;
-  font-size: 8px;
+  font-size: 10px;
   cursor: pointer;
-  text-align: center;
+  text-align: left;
 }
-
 .block:hover {
   background-color: #ddd;
   color: IndianRed;
@@ -52,6 +51,26 @@ function myFunction() {
   }
 }
 </script>
+
+2. [The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)
+   with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022*
+<button class="block" onclick="myFunction()"> [Show/Hide Abstract] </button>   
+<div id="myDIV">
+<b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+
 
 
 
