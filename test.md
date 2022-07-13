@@ -56,7 +56,7 @@ function myFunction() {
    with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022*
 <button class="block" onclick="myFunction()"> [Show/Hide Abstract] </button>   
 <div id="myDIV2">
-<b>Abstract:</b> <p style="font-size:25%;"> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</p>
+<p style="font-size:75%;"> <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</p>
 </div>
 
 <script>
