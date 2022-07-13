@@ -13,7 +13,7 @@ PhD in Economics, UW-Madison, 2015
 
 * * *
 
-### <span style="color: maroon"> Test </span>
+### <span style="color: teal"> Test </span>
 
 <style>
 .block {
@@ -35,7 +35,7 @@ PhD in Economics, UW-Madison, 2015
 
 <script>
 function myFunction(myDIV) {
-  var x = document.getElementById(myDIV);
+  var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
