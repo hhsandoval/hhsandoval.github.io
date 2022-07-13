@@ -38,7 +38,7 @@ PhD in Economics, UW-Madison, 2015
    with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023* <br>
 <button class="block" onclick="myFunction()"> [Show/Hide Abstract] </button>   
 <div id="myDIV">
-<b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
+<b>Abstract:</b> <em>Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</em> 
 </div>
 
 <script>
@@ -55,13 +55,13 @@ function myFunction() {
 2. [The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)
    with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022*
 <button class="block" onclick="myFunction()"> [Show/Hide Abstract] </button>   
-<div id="myDIV">
-<b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. 
+<div id="myDIV2">
+<b>Abstract:</b> <p style="font-size:25%;"> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</p>
 </div>
 
 <script>
 function myFunction() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("myDIV2");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
