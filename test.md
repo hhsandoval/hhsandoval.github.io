@@ -46,16 +46,14 @@ function myFunction(myDIV) {
 
 
 1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
-   with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023* <br>
-   <button class="block" onclick="myFunction('paper1');"> [Show/Hide Abstract] </button>   
-   <div id="paper1">
-   <b>Abstract:</b> <em>Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</em> </div>
+   with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023.* <button class="block" onclick="myFunction('paper1');"> [Show/Hide Abstract] </button>   
+   <div id="paper1" style="display:none;"> <b>Abstract:</b> <em>Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</em> </div>
+
+<br>
 
 2. [The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)
-   with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022* <br>
-   <button class="block" onclick="myFunction('foo');"> [Show/Hide Abstract] </button>   
-   <div id="foo">
-   <p style="font-size:75%;"> <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</p> </div>
+   with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022.* <button class="block" onclick="myFunction('foo');"> [Show/Hide Abstract] </button>   
+   <div id="foo" style="display:none;"> <p style="font-size:75%;"> <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</p> </div>
 
 
 
