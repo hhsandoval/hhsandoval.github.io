@@ -13,7 +13,7 @@ PhD in Economics, UW-Madison, 2015
 
 * * *
 
-### <span style="color: teal"> Test </span>
+### <span style="color: maroon"> Refereed Publications </span>
 
 <style>
 .block {
