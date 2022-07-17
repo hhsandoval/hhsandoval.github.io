@@ -37,7 +37,7 @@ PhD in Economics, UW-Madison, 2015
     * <span style="color: Sienna"> Role: </span>  Principal Investigator 
     * <span style="color: Sienna"> Report: </span> [Previous report](https://elderaffairs.org/wp-content/uploads/Retiree-Net-Impact-on-Floridas-Budgets-1.pdf)
 
-7. <span style="color: #3F000F"> Understanding Racial Inequity in Alachua County. </span> *Sponsored by Alachua County, Alachua County Public Schools, City of Gainesville, Gainesville Area Chamber of Commerce, Santa Fe College, and UF Health,* 2018.
+7. <span style="color: #3F000F"> Understanding Racial Inequity in Alachua County. </span> *Sponsored by Alachua County, Alachua County Public Schools, City of Gainesville, Gainesville Area Chamber of Commerce, Santa Fe College, UF Health, and UF,* 2018.
     * <span style="color: Sienna"> Role: </span>  Principal Investigator 
     * <span style="color: Sienna"> Report: </span> [Website](https://www.bebr.ufl.edu/economics/racial-inequity) <span style="color: maroon"> &#124; </span> [Report](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri1_baseline_report.pdf) <span style="color: maroon"> &#124; </span> [Slides](https://www.bebr.ufl.edu/sites/default/files/Research%20Reports/ri3_presentation_slides.pdf)
     * <span style="color: Sienna"> Media attention: </span> [Gainesville Sun](http://www.gainesville.com/news/20180113/disparity-study-alachua-county-blacks-face-bigger-hurdles?start=2) <span style="color: maroon"> &#124; </span> [The Independent Florida Alligator](https://www.alligator.org/news/uf-researchers-released-a-report-on-alachua-county-s-racial/article_9ddb58aa-fa22-11e7-8e34-a726da16f65c.html) 
