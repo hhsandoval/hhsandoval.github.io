@@ -17,7 +17,7 @@ PhD in Economics, UW-Madison, 2015
 
 <style>
 .block {
-  display: block;
+  display: inline-block;
   width: 100%;
   border: none;
   background-color: white;
