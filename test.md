@@ -23,7 +23,7 @@ PhD in Economics, UW-Madison, 2015
   background-color: white;
   color: IndianRed;
   padding: 10px 1px;
-  font-size: 10px;
+  font-size: 12px;
   cursor: pointer;
   text-align: left;
 }
@@ -46,12 +46,52 @@ function myFunction(myDIV) {
 
 1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
    with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023.* <button class="block" onclick="myFunction('paper1');"> [Show/Hide Abstract] </button>   
-   <div id="paper1" style="display:none;"> <p style="font-size:75%;"> <b>Abstract:</b> <em>Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</em> </p> </div> <br>
+   <div id="paper1" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> <em>As a consequence of the COVID-19 pandemic, some patterns of energy consumption changed in the residential and non-residential sectors. This paper uses data from a local utility company in Florida to quantify the heterogeneous impacts of the pandemic on electricity and natural gas consumption across households from different income levels and across essential and non-essential businesses. We found significant increases in the average residential electricity consumption during the lockdown and subsequent reopening phases, which translate into higher cost for households. We found that natural gas consumption dropped abruptly in the business sector and also important differences between the electricity consumption of essential and non-essential businesses, with the former consuming more and the latter less electricity.</em> </p> </div>
 
 2. [The Impacts of K-12 Students Fare Free Bus Programs on Educational Outcomes](https://www.journals.uchicago.edu/toc/jhc/0/ja)
-   with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022.* <button class="block" onclick="myFunction('foo');"> [Show/Hide Abstract] </button>   
-   <div id="foo" style="display:none;"> <p style="font-size:75%;"> <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities’ energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption.</p> </div>
+   with Emanuel Garcia Munoz. *Journal of Human Capital, 16(4), 2022.* <button class="block" onclick="myFunction('paper2');"> [Show/Hide Abstract] </button>   
+   <div id="paper2" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> With the increasing difficulty in providing student transportation, school districts have increased their collaboration with public transit providers to offer access to public transportation through free or reduced-fare programs. One such program was implemented in Florida, allowing any K-12 student in Leon County to ride the bus for free at any time to any destination. This paper applies the synthetic control method to estimate the impact of this program on school attendance and chronic absenteeism. Surprisingly, our results show negative impacts on both attendance and absenteeism outcomes, highlighting the potential unintended consequences of programs with no restriction on student ridership.</p> </div>
 
+3. [Low Income Energy Efficiency Programs and Energy Consumption](https://doi.org/10.1016/j.jeem.2022.102656)
+   with Pedro Hancevic. *Journal of Environmental Economics and Management, Vol 113, 102656, 2022* <button class="block" onclick="myFunction('paper3');"> [Show/Hide Abstract] </button>   
+   <div id="paper3" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> Low-income energy efficiency programs have become a major component of cities' energy policy, with 49 out of 51 largest metropolitan areas in the U.S. offering one. This paper uses data from Gainesville Regional Utility to quantify the impacts of the housing investment done by its Low-income Energy Efficiency Program Plus (LEEP Plus) on energy consumption. Our results show that LEEP Plus does not affect natural gas consumption but reduces electricity consumption by approximately 7\%, with greater savings occurring in the summer and winter. The effect on electricity consumption is significant to a variety of robustness checks and remains for at least 24 months after the completion of energy efficiency upgrades. We also measure some relevant heterogeneous effects, one of which is the breakdown of the air-conditioning-related investments, the main energy efficiency improvement under the LEEP Plus program. Finally, we evaluate the energy savings in monetary terms considering the private cost changes and the social cost changes. In both cases, the associated energy savings are not enough to offset the investment costs.</p> </div>
+  
+4. [The Role of Consumer Confidence in Forecasting Consumption, Evidence from Florida](https://doi.org/10.1002/soej.12528)
+   with Anita Walsh. *Southern Economic Journal, 88(2): 757-788, 2021* <button class="block" onclick="myFunction('paper4');"> [Show/Hide Abstract] </button>   
+   <div id="paper4" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> X.</p> </div>
+
+5. [Social Capital in Labor Market Access and Poverty in Mexico](http://biblioteca.ciess.org/adiss/r458/social_capital_in_labor_market_access_and_poverty_in_mexico)
+  with Martin Lima. *Well-being and Social Policy, 9(1): 49-71, 2014* <button class="block" onclick="myFunction('paper5');"> [Show/Hide Abstract] </button>   
+   <div id="paper5" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> X.</p> </div>
+
+6. [Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html)
+   with Carlos Urzúa. *Journal of Management, Finance, and Economics, 3(1): 29-36, 2009* <button class="block" onclick="myFunction('paper6');"> [Show/Hide Abstract] </button>   
+   <div id="paper6" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> LX.</p> </div>
+
+7. [TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)
+   with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008* <button class="block" onclick="myFunction('paper7');"> [Show/Hide Abstract] </button>   
+   <div id="paper7" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> H.</p> </div>
+
+### <span style="color: maroon"> Working Papers </span>
+
+1. [Sentiments and Spending Intentions: Evidence from Florida](https://hhsandoval.github.io/CSI2022.pdf)  
+   with Anita Walsh *(under review)* <button class="block" onclick="myFunction('wpaper1');"> [Show/Hide Abstract] </button>   
+   <div id="wpaper1" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> H.</p> </div>
+
+2. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
+   *(under review)* < onclick="myFunction('wpaper1');"> [Show/Hide Abstract] </>   
+   <div id="wpaper1" style="display:none;"> <p style="font-size:88%;"> <b>Abstract:</b> H.</p> </div>
+
+### <span style="color: maroon"> Work in Progress </span>
+
+1. <span style="color: #3F000F"> Solar Panel Adoption in SMEs in Developing Countries </span>  
+   with Pedro Hancevic
+
+2. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
+   with Anita Walsh
+
+3. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>  
+   with Armand Kapllani   
 
 
 
