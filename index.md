@@ -44,7 +44,7 @@ function myFunction(myDIV) {
 }
 </script>
 
-1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/issue/450)  
+1. [Differential Impact of COVID-19 on the Energy Consumption of Residential and Business Sectors](http://www.iaee.org/eeep/article/451)  
    with Pedro Hancevic. *Economics of Energy & Environmental Policy, 12(1), 2023.* <button class="block" onclick="myFunction('paper1');"> [Show/Hide Abstract] </button>   
    <div id="paper1" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> As a consequence of the COVID-19 pandemic, some patterns of energy consumption changed in the residential and non-residential sectors. This paper uses data from a local utility company in Florida to quantify the heterogeneous impacts of the pandemic on electricity and natural gas consumption across households from different income levels and across essential and non-essential businesses. We found significant increases in the average residential electricity consumption during the lockdown and subsequent reopening phases, which translate into higher cost for households. We found that natural gas consumption dropped abruptly in the business sector and also important differences between the electricity consumption of essential and non-essential businesses, with the former consuming more and the latter less electricity.</p> </div>
 
