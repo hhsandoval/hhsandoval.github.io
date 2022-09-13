@@ -72,6 +72,12 @@ function myFunction(myDIV) {
    with Carlos Urzúa and Alejandra Macías. *Journal of Management, Finance, and Economics, 2(1): 74-91, 2008* <button class="block" onclick="myFunction('paper7');"> [Show/Hide Abstract] </button>   
    <div id="paper7" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> This paper proposes some changes to the official methodology that is currently in use to measure the state of poverty in Mexico. Among other suggestions, it is recommended the use of bootstrapping to estimate confidence intervals for the poverty statistics, as well as the use of dominance analysis when making intertemporal comparisons. In particular, since poverty lines change over time, the paper proposes the use of TIP curves for that end. Using the eight surveys that were made during the period 1992-2005, the paper presents a large number of absolute poverty statistics and TIP curves, as well as comparisons among them.</p> </div>
 
+
+### <span style="color: maroon"> Research Grants </span>
+
+1. Climate and Sustainable Development (CSD) Sector of the Inter-American Development Bank (IDB), <span style="color: #3F000F"> Energy Efficiency Audits for Small Firms in Mexico </span> with Hernán Bejarano and Pedro Hancevic, $65,000. 
+
+
 ### <span style="color: maroon"> Working Papers </span>
 
 1. [Sentiments and Spending Intentions: Evidence from Florida](https://hhsandoval.github.io/CSI2022.pdf)  
