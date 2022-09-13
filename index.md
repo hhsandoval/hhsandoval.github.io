@@ -75,7 +75,7 @@ function myFunction(myDIV) {
 
 ### <span style="color: maroon"> Research Grants </span>
 
-1. Climate and Sustainable Development (CSD) Sector of the Inter-American Development Bank (IDB), <span style="color: #3F000F"> Energy Efficiency Audits for Small Firms in Mexico </span> with Hernán Bejarano and Pedro Hancevic, $65,000. 
+1. Climate and Sustainable Development (CSD) Sector of the Inter-American Development Bank (IDB), <span style="color: #3F000F"> Energy Efficiency Audits for Small Firms in Mexico </span> with Hernán Bejarano and Pedro Hancevic, $65,000, 2022-2023.
 
 
 ### <span style="color: maroon"> Working Papers </span>
