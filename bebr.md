@@ -18,7 +18,7 @@ PhD in Economics, UW-Madison, 2015
 1. [Consumer Sentiment Index (CSI) Press Release](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
     * <span style="color: Sienna"> Current release:</span> [Release](https://www.bebr.ufl.edu/wp-content/uploads/2022/08/csi_2022_30_august.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2022/09/august-consumer-sentiment/)
 
-2. <span style="color: #3F000F"> Export Sales Forecasting Accuracy Model. </span>  *Sponsored by Enterprise Florida),* 2022.
+2. <span style="color: #3F000F"> Export Sales Forecasting Accuracy Model. </span>  *Sponsored by Enterprise Florida Inc.,* 2022.
     * <span style="color: Sienna"> Role: </span>  Principal Investigator 
     * <span style="color: Sienna"> Report: </span> In progress 
 
