@@ -80,23 +80,24 @@ function myFunction(myDIV) {
 
 ### <span style="color: maroon"> Working Papers </span>
 
-1. [Sentiments and Spending Intentions: Evidence from Florida](https://hhsandoval.github.io/CSI2022.pdf)  
+1. [Solar Panel Adoption in SMEs in Developing Countries](https://hhsandoval.github.io/index.html)  
+   with Pedro Hacevic *(under review)* <button class="block" onclick="myFunction('wpaper1');"> [Show/Hide Abstract] </button>   
+   <div id="wpaper1" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> We analyze the determinants of adoption of distributed solar photovoltaic systems, focusing on small and medium-sized commercial and service firms. We make use of monthly billing data that is perfectly matched with data from the ENCENRE-2019 --a novel survey that gathers data on electricity consumption, stock of electric equipment, and a rich set of firm characteristics in the Metropolitan Area of Aguascalientes, Mexico. Using an econometric model, we find evidence that a set of explanatory variables such as business characteristics, the economic sector, ownership status, stock and usage of equipment and appliances, presence of other solar technologies, and views about the use of renewable energy are important determinants of the probability of adoption of solar panel systems. Furthermore, using machine learning methods to identify the best predictors of solar adoption, we indirectly validate the theory-driven empirical model by assessing a large set of explanatory variables and selecting a subset of these variables. In addition, we investigate relevant cases where a priory solar panel adoption seems to be cost-effective but structural adoption barriers and adoption gaps might coexist for certain groups of electricity users. We also calculate the social cost savings and the avoided CO2 emissions. Finally, based on our results, we provide several policy implications and recommendations.</p> </div>
+
+2. [Sentiments and Spending Intentions: Evidence from Florida](https://hhsandoval.github.io/CSI2022.pdf)  
    with Anita Walsh *(under review)* <button class="block" onclick="myFunction('wpaper1');"> [Show/Hide Abstract] </button>   
    <div id="wpaper1" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Consumer sentiment is considered an important leading indicator of changes in household spending. However, the overall empirical evidence of the causal relationship between sentiment and consumption is mixed and scarce. We address these gaps by employing data from the monthly Florida Consumer Attitude Survey, which captures party affiliation, consumer sentiment, and spending intentions at the individual level since 1991. We employ political partisanship around elections in which the governing party changed as an instrument for sentiment. Our results show that party affiliation is a strong instrument that has a positive and statistically significant effect on sentiment. Moreover, we find a statistically significant causal relationship between sentiment and spending intentions. This effect is sizable and robust across the presidential elections in our sample as well as to a variety of robustness checks. Finally, we provide evidence that spending intentions relate to actual spending, and show that spending increased more among counties with a larger share of Republican voters following the 2016 presidential election.</p> </div>
 
-2. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
+3. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
    *(under review)* <button class="block" onclick="myFunction('wpaper2');"> [Show/Hide Abstract] </button>  
    <div id="wpaper2" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Using micro-level data from the conditional cash transfer program Progresa in Mexico, this paper estimates a behavioral model of school attendance and social interactions to study how social divisions due to program targeting can affect the complementarities arising from social interactions as well as their subsequent effects on program outcomes. The qualitative evaluation of the program indicated that social divisions manifested between beneficiaries and non-beneficiaries as a result of the program’s targeting. However, the empirical evidence suggests that the distinction introduced by the program between beneficiaries and non-beneficiaries did not alter the endogenous-effects network and therefore the complementarities. The evidence is consistent with a positive spillover program effect on school attendance and an endogenous effect accounting for 25 percent of the overall treatment effect.</p> </div>
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1. <span style="color: #3F000F"> Solar Panel Adoption in SMEs in Developing Countries </span>  
-   with Pedro Hancevic
-
-2. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
+1. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
    with Anita Walsh
 
-3. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>  
+2. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>  
    with Armand Kapllani   
 
 
