@@ -44,6 +44,9 @@ function myFunction(myDIV) {
 }
 </script>
 
+
+
+
 1. [Solar Panel Adoption among Mexican Small and Medium-Sized Commercial and Service Businesses](https://doi.org/10.1016/j.eneco.2023.106979) 
   with Pedro Hancevic. *<span style="color: #2B1B17"> Energy Economics </span> Vol 126, 106979, 2023* <button class="block" onclick="myFunction('paper8');"> [Show/Hide Abstract] </button>   
    <div id="paper8" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> We analyze the determinants of adoption of distributed solar photovoltaic systems, focusing on small and medium-sized commercial and service firms. We use monthly billing data that are perfectly matched with data from a novel survey that gathers information on electricity consumption, stock of electric equipment, and a rich set of firm characteristics in the Metropolitan Area of Aguascalientes, Mexico. Using an econometric model, we find evidence that a set of explanatory variables such as business characteristics, the economic sector, ownership status, stock and usage of equipment and appliances, presence of other solar technologies, and views about the use of renewable energy are important determinants of the probability of adoption of solar panel systems. Furthermore, using machine learning methods to identify the best predictors of solar adoption, we indirectly validate the theory-driven empirical model by assessing a large set of explanatory variables and selecting a subset of these variables. In addition, we investigate relevant cases where a priori solar panel adoption seems to be cost-effective but structural adoption barriers and adoption gaps might coexist for certain groups of electricity users. We also calculate the social cost savings and the avoided CO<sub>2</sub> emissions. Finally, based on our results, we provide several policy implications and recommendations.</p> </div>
@@ -87,7 +90,7 @@ function myFunction(myDIV) {
 
 
 1. [Sentiments and Spending Intentions: Evidence from Florida](https://hhsandoval.github.io/CSI2022.pdf) 
-  with Anita Walsh *(revise and resubmit)* <button class="block" onclick="myFunction('wpaper1');"> [Show/Hide Abstract] </button>   
+  with Anita Walsh *(conditionally accepted) <span style="color: #2B1B17"> Economic Inquiry</span>* <button class="block" onclick="myFunction('wpaper1');"> [Show/Hide Abstract] </button>   
    <div id="wpaper1" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Consumer sentiment is considered an important leading indicator of changes in household spending. However, the overall empirical evidence of the causal relationship between sentiment and consumption is mixed and scarce. We address these gaps by employing data from the monthly Florida Consumer Attitude Survey, which captures party affiliation, consumer sentiment, and spending intentions at the individual level since 1991. We employ political partisanship around elections in which the governing party changed as an instrument for sentiment. Our results show that party affiliation is a strong instrument that has a positive and statistically significant effect on sentiment. Moreover, we find a statistically significant causal relationship between sentiment and spending intentions. This effect is sizable and robust across the presidential elections in our sample as well as to a variety of robustness checks. Finally, we provide evidence that spending intentions relate to actual spending, and show that spending increased more among counties with a larger share of Republican voters following the 2016 presidential election.</p> </div>
 
 2. [Split Incentives in Emerging Countries](https://rednie.eco.unc.edu.ar/files/DT/242.pdf) 
