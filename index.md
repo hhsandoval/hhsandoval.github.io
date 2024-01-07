@@ -98,27 +98,28 @@ function myFunction(myDIV) {
    <div id="wpaper2" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> In this paper we provide empirical evidence of the energy-efficiency gap between homeowners and renters and quantify the magnitude of the split incentives problem in an emerging economy by studying Mexican households. Using micro-level data from the first National Survey on Energy Consumption in Private Homes (ENCEVI-2018) and a regression framework, we show that underinvestment problems occur in multiple categories of residential energy efficiency. Concretely, our results show that renters have significantly less insulation and energy-efficient equipment, that they tend to use some of their equipment more frequently, and that they pay higher utility bills than homeowners. In addition, renters are less aware of government programs that can reduce their energy expenditure and are also less likely to take advantage of them. Finally, a substantial reduction in carbon emissions could be achieved if renters were equally energy efficient as homeowners.</p> </div>
 
 3. [Gender Gap in Consumer Expectations](https://hhsandoval.github.io/) 
-  *(under review)* <button class="block" onclick="myFunction('wpaper3');"> [Show/Hide Abstract] </button>  
+  *(revise and resubmit)* <button class="block" onclick="myFunction('wpaper3');"> [Show/Hide Abstract] </button>  
    <div id="wpaper3" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b>  This paper is the first to provide empirical evidence of persistent gender gaps in consumer expectations regarding personal finances and the performance of the U.S. economy. Using individual-level data from two independent yet comparable consumer attitudes surveys --one nationally representative of the U.S. and the other statewide representative of Florida-- this paper shows that women are significantly less likely than men to hold optimistic expectations about their personal financial situation and about U.S. business conditions over the next year and over the next five years. These gender expectation gaps, ranging from 5 to 8.5 percentage points, are highly significant even after controlling for respondent's socio-demographic characteristics, as well as survey-month and geographic location (including zip code) fixed effects. They are prevalent in both surveys and present since records are available more than four decades ago. Despite persisting over time, these gender differences tend to narrow during periods of economic hardship.</p> </div>
 
+4. [Opportunistic Behavior and Discrimination in the Mexican Solar PV Market: An Audit Experiment](https://scioteca.caf.com/handle/123456789/2186) 
+  with Hernán Bejarano and Pedro Hancevic *(under review)* <button class="block" onclick="myFunction('wpaper4');"> [Show/Hide Abstract] </button>  
+   <div id="wpaper4" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> We conducted an audit experiment in which fictional households requested quotes for the purchase, installation, and interconnection of solar photovoltaic systems in four cities across Mexico. This allowed us to identify whether there was opportunistic behavior among local sellers and to quantify the extent of discrimination based on characteristics of residential users, such as gender, socioeconomic status, product knowledge, and access to external financing sources. The main findings indicate that women and customers with higher socioeconomic status not only face price discrimination but are also offered oversized systems. There is no evidence of such practices towards customers with prior product information or those who have secured external financing for the purchase.</p> </div>
 
-4. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
-  *(under review)* <button class="block" onclick="myFunction('wpaper4');"> [Show/Hide Abstract] </button>  
-   <div id="wpaper4" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Using micro-level data from the conditional cash transfer program Progresa in Mexico, this paper estimates a behavioral model of school attendance and social interactions to study how social divisions due to program targeting can affect the complementarities arising from social interactions as well as their subsequent effects on program outcomes. The qualitative evaluation of the program indicated that social divisions manifested between beneficiaries and non-beneficiaries as a result of the program’s targeting. However, the empirical evidence suggests that the distinction introduced by the program between beneficiaries and non-beneficiaries did not alter the endogenous-effects network and therefore the complementarities. The evidence is consistent with a positive spillover program effect on school attendance and an endogenous effect accounting for 25 percent of the overall treatment effect.</p> </div>
+
+5. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
+  *(under review)* <button class="block" onclick="myFunction('wpaper5');"> [Show/Hide Abstract] </button>  
+   <div id="wpaper5" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Using micro-level data from the conditional cash transfer program Progresa in Mexico, this paper estimates a behavioral model of school attendance and social interactions to study how social divisions due to program targeting can affect the complementarities arising from social interactions as well as their subsequent effects on program outcomes. The qualitative evaluation of the program indicated that social divisions manifested between beneficiaries and non-beneficiaries as a result of the program’s targeting. However, the empirical evidence suggests that the distinction introduced by the program between beneficiaries and non-beneficiaries did not alter the endogenous-effects network and therefore the complementarities. The evidence is consistent with a positive spillover program effect on school attendance and an endogenous effect accounting for 25 percent of the overall treatment effect.</p> </div>
 
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1. <span style="color: #3F000F"> Opportunistic Behavior and Price Discrimination in the Mexican Solar PV Market: An Audit Experiment </span>
-   with Hernán Bejarano and Pedro Hancevic
-
-2. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
+1. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
    with Hernán Bejarano, Brandon García, and Pedro Hancevic
 
-3. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
+2. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
    with Anita Walsh
 
-4. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
+3. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
    with Armand Kapllani   
 
 
