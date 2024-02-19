@@ -91,7 +91,7 @@ function myFunction(myDIV) {
 ### <span style="color: maroon"> Working Papers </span>
 
 1. [Split Incentives in Emerging Countries](https://rednie.eco.unc.edu.ar/files/DT/242.pdf) 
-  with Pedro Hacevic *(revise and resubmit)* <button class="block" onclick="myFunction('wpaper2');"> [Show/Hide Abstract] </button>   
+  with Pedro Hacevic *(revise and resubmit, 2nd round)* <button class="block" onclick="myFunction('wpaper2');"> [Show/Hide Abstract] </button>   
    <div id="wpaper2" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> In this paper we provide empirical evidence of the energy-efficiency gap between homeowners and renters and quantify the magnitude of the split incentives problem in an emerging economy by studying Mexican households. Using micro-level data from the first National Survey on Energy Consumption in Private Homes (ENCEVI-2018) and a regression framework, we show that underinvestment problems occur in multiple categories of residential energy efficiency. Concretely, our results show that renters have significantly less insulation and energy-efficient equipment, that they tend to use some of their equipment more frequently, and that they pay higher utility bills than homeowners. In addition, renters are less aware of government programs that can reduce their energy expenditure and are also less likely to take advantage of them. Finally, a substantial reduction in carbon emissions could be achieved if renters were equally energy efficient as homeowners.</p> </div>
 
 2. [Gender Gap in Consumer Expectations](https://hhsandoval.github.io/) 
