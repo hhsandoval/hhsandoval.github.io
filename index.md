@@ -45,7 +45,7 @@ function myFunction(myDIV) {
 
 
 1. [Sentiments and Spending Intentions: Evidence from Florida](https://onlinelibrary.wiley.com/journal/14657295) 
-  with Anita Walsh *(accepted) <span style="color: #2B1B17"> Economic Inquiry</span>* <button class="block" onclick="myFunction('paper9');"> [Show/Hide Abstract] </button>   
+  with Anita Walsh *(forthcoming) <span style="color: #2B1B17"> Economic Inquiry</span>* <button class="block" onclick="myFunction('paper9');"> [Show/Hide Abstract] </button>   
    <div id="paper9" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Consumer sentiment is considered an important leading indicator of changes in household spending. However, the overall empirical evidence of the causal relationship between sentiment and consumption is mixed and scarce. We address these gaps by employing data from the monthly Florida Consumer Attitude Survey, which captures party affiliation, consumer sentiment, and spending intentions at the individual level since 1991. We employ political partisanship around elections in which the governing party changed as an instrument for sentiment. Our results show that party affiliation is a strong instrument that has a positive and statistically significant effect on sentiment. Moreover, we find a statistically significant causal relationship between sentiment and spending intentions. This effect is sizable and robust across the presidential elections in our sample as well as to a variety of robustness checks. Finally, we provide evidence that spending intentions relate to actual spending, and show that spending increased more among counties with a larger share of Republican voters following the 2016 presidential election.</p> </div>
 
 
