@@ -109,19 +109,19 @@ function myFunction(myDIV) {
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1. <span style="color: #3F000F"> Energy efficiency audits for small firms in Mexico </span>
+1. <span style="color: #3F000F"> Energy Efficiency Audits for Small Firms in Mexico </span>
    with Hernán Bejarano and Pedro Hancevic
 
 2. <span style="color: #3F000F"> Misclassification of Energy Tariffs: Structural Winners and Losers </span>
    with Hernán Bejarano and Pedro Hancevic
 
-4. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
+3. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
    with Hernán Bejarano, Brandon García, and Pedro Hancevic
 
-5. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
+4. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
    with Anita Walsh
 
-6. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
+5. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
    with Armand Kapllani   
 
 
