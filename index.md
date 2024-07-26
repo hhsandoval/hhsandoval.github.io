@@ -80,14 +80,13 @@ function myFunction(myDIV) {
   with Martin Lima. *<span style="color: #2B1B17"> Well-being and Social Policy</span>, 9(1): 49-71, 2014* <button class="block" onclick="myFunction('paper5');"> Show/Hide Abstract </button>   
    <div id="paper5" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Social capital, defined as the set of social networks that a person has in order to obtain benefits, is used by the population as a mechanism for providing resources, to cushion shocks in consumption and to obtain information on available employment opportunities. This study employs a logistic model to characterize the manner in which people access the labor market in Mexico through the use of their social networks (bonding social capital). It also takes poverty levels into account. A cycle in the use of social networks was observed in which job searches are initially conducted with the help of family, then friends and co-workers, and, lastly, neighbors. This cycle is robust in the case of the poor, who rely primarily on friends and co-workers to enter the labor market.</p> </div>
 
-10. [Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html) 
-  with Carlos Urzúa. *<span style="color: #2B1B17"> Journal of Management, Finance, and Economics</span>, 3(1): 29-36, 2009* <button class="block" onclick="myFunction('paper6');"> Show/Hide Abstract </button>   
+10. [Negative Net Incomes and the Measurement of Poverty: A Note](https://ideas.repec.org/a/ega/rafega/200903.html)
+  with Carlos Urzúa. *<span style="color: #2B1B17"> Journal of Management, Finance, and Economics</span>, 3(1): 29-36, 2009* <button class="block" onclick="myFunction('paper6');"> Show/Hide Abstract </button>
    <div id="paper6" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> This note warns about the careless computation of poverty indexes when the welfare of each household is measured by its net income, since this can be negative. As is illustrated in the case of Mexico, even if only a handful of households report negative incomes, the resulting poverty aggregates, when they go beyond a mere headcount measure, can behave rather badly. The note ends with suggestions on how to deal with the problem.</p> </div>
-
-11. [TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html) 
-  with Carlos Urzúa and Alejandra Macías. *<span style="color: #2B1B17"> Journal of Management, Finance, and Economics</span>, 2(1): 74-91, 2008* <button class="block" onclick="myFunction('paper7');"> Show/Hide Abstract </button>   
+  
+11. [TIPs for the Analysis of Poverty in Mexico, 1992-2005](https://ideas.repec.org/a/ega/rafega/200806.html)
+  with Carlos Urzúa and Alejandra Macías. *<span style="color: #2B1B17"> Journal of Management, Finance, and Economics</span>, 2(1): 74-91, 2008* <button class="block" onclick="myFunction('paper7');"> Show/Hide Abstract </button>
    <div id="paper7" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> This paper proposes some changes to the official methodology that is currently in use to measure the state of poverty in Mexico. Among other suggestions, it is recommended the use of bootstrapping to estimate confidence intervals for the poverty statistics, as well as the use of dominance analysis when making intertemporal comparisons. In particular, since poverty lines change over time, the paper proposes the use of TIP curves for that end. Using the eight surveys that were made during the period 1992-2005, the paper presents a large number of absolute poverty statistics and TIP curves, as well as comparisons among them.</p> </div>
-
 
 ### <span style="color: maroon"> Research Grants </span>
 
