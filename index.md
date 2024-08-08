@@ -98,29 +98,30 @@ function myFunction(myDIV) {
 ### <span style="color: maroon"> Working Papers </span>
 
 1. [Opportunistic Behavior and Discrimination in the Mexican Solar PV Market: An Audit Experiment](https://scioteca.caf.com/handle/123456789/2186) 
-  with Hernán Bejarano and Pedro Hancevic *(under review)* <button class="block" onclick="myFunction('wpaper4');"> Show/Hide Abstract </button>  
-   <div id="wpaper4" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> We conducted an audit experiment in which fictional households requested quotes for the purchase, installation, and interconnection of solar photovoltaic systems in four cities across Mexico. This allowed us to identify whether there was opportunistic behavior among local sellers and to quantify the extent of discrimination based on characteristics of residential users, such as gender, socioeconomic status, product knowledge, and access to external financing sources. The main findings indicate that women and customers with higher socioeconomic status not only face price discrimination but are also offered oversized systems. There is no evidence of such practices towards customers with prior product information or those who have secured external financing for the purchase.</p> </div>
+  with Hernán Bejarano and Pedro Hancevic *(under review)* <button class="block" onclick="myFunction('wpaper1');"> Show/Hide Abstract </button>  
+   <div id="wpaper1" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> We conducted an audit experiment in which fictional households requested quotes for the purchase, installation, and interconnection of solar photovoltaic systems in four cities across Mexico. This allowed us to identify whether there was opportunistic behavior among local sellers and to quantify the extent of discrimination based on characteristics of residential users, such as gender, socioeconomic status, product knowledge, and access to external financing sources. The main findings indicate that women and customers with higher socioeconomic status not only face price discrimination but are also offered oversized systems. There is no evidence of such practices towards customers with prior product information or those who have secured external financing for the purchase.</p> </div>
 
-2. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
-  *(under review)* <button class="block" onclick="myFunction('wpaper5');"> Show/Hide Abstract </button>  
-   <div id="wpaper5" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Using micro-level data from the conditional cash transfer program Progresa in Mexico, this paper estimates a behavioral model of school attendance and social interactions to study how social divisions due to program targeting can affect the complementarities arising from social interactions as well as their subsequent effects on program outcomes. The qualitative evaluation of the program indicated that social divisions manifested between beneficiaries and non-beneficiaries as a result of the program’s targeting. However, the empirical evidence suggests that the distinction introduced by the program between beneficiaries and non-beneficiaries did not alter the endogenous-effects network and therefore the complementarities. The evidence is consistent with a positive spillover program effect on school attendance and an endogenous effect accounting for 25 percent of the overall treatment effect.</p> </div>
+2. [The Hidden Costs of Tariff Misclassification: Structural Winners and Losers ](https://hhsandoval.github.io/) 
+ with Hernán Bejarano and Pedro Hancevic *(under review)* <button class="block" onclick="myFunction('wpaper2');"> Show/Hide Abstract </button>  
+   <div id="wpaper2" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> We propose an empirical model to evaluate firms’ choices in electric tariff contracting. By combining novel data from the Non-residential Electricity Consumption Survey (ENCENRE) with utility billing data from the national utility company, we analyze two pathological situa- tions revealed by the electric bills of commercial and service SMEs in Aguascalientes, Mexico, during 2019 and 2020. First, despite being banned, many firms pay the residential tariff. Among these firms, some pay the regular subsidized rate, while others pay the high-demand rate, which is higher than the corresponding business rate. Additionally, for another group of companies, there are two competing business tariffs, many of which are misclassified and thus must be re-categorized to afford less expensive electric bills. A rich set of explanatory variables is used to quantify the two biases, explain the wrong decisions, estimate hidden costs and subsidies at the national level, and provide valuable policy implications.</p> </div>
 
+3. [Energy Efficiency Audits for Small Firms in Mexico](https://hhsandoval.github.io/) 
+ with Hernán Bejarano and Pedro Hancevic <button class="block" onclick="myFunction('wpaper3');"> Show/Hide Abstract </button>  
+   <div id="wpaper3" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Enhancing energy efficiency is crucial, particularly in the context of fossil-based electricity production, as observed in developing countries like Mexico, where each consumed megawatt generates significant emissions. This paper explores the potential for enabling firms to reduce their electricity consumption and, consequently, their emissions. Specifically, we randomly offered a free energy efficiency audit to a group of micro and small-sized establishments in the trade and services sectors in Mexico. This experimental approach allows us to estimate how firms adjust their consumption in response to energy efficiency information. Our results reveal decreases in electricity consumption and expenditure, approximately 4--7% and 2--3%, respectively, following the energy audit. There are certain pre-existing differences between the firms that lead to heterogeneous treatment effects. Notably, these include the energy efficiency before the treatment, as measured by the global score, and the type of electricity rate contracted (residential versus business).</p> </div>
+
+4. [Social Interactions and Social Divisions in Program Intervention](https://hhsandoval.github.io/SI2022.pdf) 
+ <button class="block" onclick="myFunction('wpaper4');"> Show/Hide Abstract </button>  
+   <div id="wpaper4" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> Using micro-level data from the conditional cash transfer program Progresa in Mexico, this paper estimates a behavioral model of school attendance and social interactions to study how social divisions due to program targeting can affect the complementarities arising from social interactions as well as their subsequent effects on program outcomes. The qualitative evaluation of the program indicated that social divisions manifested between beneficiaries and non-beneficiaries as a result of the program’s targeting. However, the empirical evidence suggests that the distinction introduced by the program between beneficiaries and non-beneficiaries did not alter the endogenous-effects network and therefore the complementarities. The evidence is consistent with a positive spillover program effect on school attendance and an endogenous effect accounting for 25 percent of the overall treatment effect.</p> </div>
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1. <span style="color: #3F000F"> Energy Efficiency Audits for Small Firms in Mexico </span>
-   with Hernán Bejarano and Pedro Hancevic
-
-2. <span style="color: #3F000F"> Misclassification of Energy Tariffs: Structural Winners and Losers </span>
-   with Hernán Bejarano and Pedro Hancevic
-
-3. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
+1. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
    with Hernán Bejarano, Brandon García, and Pedro Hancevic
 
-4. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
+2. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
    with Anita Walsh
 
-5. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
+3. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
    with Armand Kapllani   
 
 
