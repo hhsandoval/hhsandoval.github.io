@@ -44,7 +44,7 @@ function myFunction(myDIV) {
 </script>
 
 1. [Split Incentives in Emerging Countries](https://rednie.eco.unc.edu.ar/files/DT/242.pdf) 
-  with Pedro Hacevic. *<span style="color: #2B1B17"> Energy Journal (accepted) </span>*  <button class="block" onclick="myFunction('paper11');"> Show/Hide Abstract </button>   
+  with Pedro Hacevic. *<span style="color: #2B1B17"> The Energy Journal (accepted) </span>*  <button class="block" onclick="myFunction('paper11');"> Show/Hide Abstract </button>   
    <div id="paper11" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> In this paper, we provide empirical evidence of the energy-efficiency gap between homeowners and renters and quantify the magnitude of the split incentives problem in an emerging economy by studying Mexican households. Using micro-level data from the first National Survey on Energy Consumption in Private Homes (ENCEVI-2018) and a regression framework, we show that underinvestment problems occur in multiple categories of residential energy efficiency. Concretely, our results show that renters have significantly less insulation and energy-efficient equipment, that they tend to use some of their equipment more frequently, and that they pay higher utility bills than homeowners. In addition, renters are less aware of government programs that can reduce their energy expenditure and are also less likely to take advantage of them. Finally, a substantial reduction in carbon emissions could be achieved if renters were equally energy efficient as homeowners.</p> </div>
 
 2. [Gender Gap in Consumer Expectations](https://doi.org/10.1080/13504851.2024.2389339). 
@@ -115,13 +115,17 @@ function myFunction(myDIV) {
 
 ### <span style="color: maroon"> Work in Progress </span>
 
-1. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
+1. <span style="color: #3F000F"> Assessing the Impact of Minimum Energy Efficiency Standards for Rental Properties </span>
+   with Pedro Hancevic <button class="block" onclick="myFunction('wpgr1');"> Show/Hide Abstract </button>  
+   <div id="wpgr1" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> The global energy system is currently undergoing rapid transformation. Research indicates that rental homes remain behind in energy efficiency compared to owner-occupied residential buildings. Specifically, studies show landlords in the U.S. are less inclined to invest in high-efficiency measures. This reluctance stems from the fact that, when tenants are responsible for paying the energy bills, landlords do not reap the benefits from lower energy bills, giving rise to what is known as the split incentives or landlord-tenant problem. The cumulative impact of these inefficiencies results in increased energy consumption and expenses for renters, as well as contributing to excessive emissions. In 2020, with the intention of increasing renters’ living standards and curbing energy waste, the Gainesville City Commission in Florida adopted the Rental Housing Ordinance (RHO). This ordinance, which went into effect in October 2021, established a permit and inspection process for all residential rental units to raise energy efficiency and property maintenance standards. Using the list of homes with a rental license and the results from the rental inspections conducted since October 2021, this paper investigates whether the adoption of the RHO resulted in a decrease in energy consumption and energy bills, while also examining the social benefits arising from the potential reduction in pollutant emissions.</p> </div>
+
+2. <span style="color: #3F000F"> Unlocking the Potential: Factors Influencing Residential Photovoltaic System Adoption in Mexico </span>
    with Hernán Bejarano, Brandon García, and Pedro Hancevic
 
-2. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
+3. <span style="color: #3F000F"> Sentiments and Consumer Spending: Evidence from Florida’s Metro Areas </span>
    with Anita Walsh
 
-3. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
+4. <span style="color: #3F000F"> Undercoverage and Partial Identification with Covariates </span>
    with Armand Kapllani   
 
 
