@@ -16,9 +16,11 @@ PhD in Economics, UW-Madison, 2015
 
 1. <span style="color: #3F000F"> ECO 7427: Econometric Methods II </span> (Ph.D. level) 
     * Most recent: [Syllabus (Spring 2024)](https://hhsandoval.github.io/E7427S2024.pdf)
+    * Teaching evaluations: [2020 - 2024](https://hhsandoval.github.io/E7427TE2020_24.pdf)
 
 2. <span style="color: #3F000F"> ECO 5435: Economic Data Analysis </span> (Master level) 
-    * Most recent: [Syllabus (Spring 2024)](https://hhsandoval.github.io/E5435S2024.pdf) 
+    * Most recent: [Syllabus (Spring 2024)](https://hhsandoval.github.io/E5435S2024.pdf)
+    * Teaching evaluations: [2020 - 2024](https://hhsandoval.github.io/E5435TE2020_24.pdf)
 
 
 
