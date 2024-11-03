@@ -15,7 +15,7 @@ PhD in Economics, UW-Madison, 2015
 ### <span style="color: maroon"> Projects involved </span>
 
 1. [Consumer Sentiment Index (CSI) Press Release](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
-    * <span style="color: Sienna"> Current release:</span> [Release](https://bebr.ufl.edu/wp-content/uploads/2024/01/December-CSI-Report-for-website.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2024/01/december-csi/)
+    * <span style="color: Sienna"> Current release:</span> [Release](https://bebr.ufl.edu/wp-content/uploads/2024/10/October-CSI-Report-for-Website.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2024/10/florida-consumer-sentiment/) <span style="color: maroon"> &#124; </span> [Florida Trend](https://www.floridatrend.com/article/41484/hurricanes-induce-slump-in-florida-consumer-sentiment)
 
 2. <span style="color: #3F000F"> Export Sales Forecasting Accuracy Model. </span>  *Sponsored by Enterprise Florida Inc.,* 2023.
     * <span style="color: Sienna"> Role: </span>  Principal Investigator 
