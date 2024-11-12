@@ -97,7 +97,7 @@ function myFunction(myDIV) {
 
 ### <span style="color: maroon"> Working Papers </span>
 
-1. [Opportunistic Behavior and Discrimination in the Mexican Solar PV Market: An Audit Experiment](https://scioteca.caf.com/handle/123456789/2186) 
+1. [Opportunistic Behavior and Discrimination in the Mexican Solar PV Market: An Audit Experiment](https://www.dropbox.com/scl/fi/ytfz4znb1tfwsdp6pt9i5/Manuscript.pdf?rlkey=qnqrvsoqg1june76nb1aprrcz&e=1&dl=0) 
   with Hernán Bejarano and Pedro Hancevic *(under review)* <button class="block" onclick="myFunction('wpaper1');"> Show/Hide Abstract </button>  
    <div id="wpaper1" style="display:none;"> <p style="font-size:90%;"> <b>Abstract:</b> We conducted an audit experiment in which fictional households requested quotes for the purchase, installation, and interconnection of solar photovoltaic systems in four cities across Mexico. This allowed us to identify whether there was opportunistic behavior among local sellers and to quantify the extent of discrimination based on characteristics of residential users, such as gender, socioeconomic status, product knowledge, and access to external financing sources. The main findings indicate that women and customers with higher socioeconomic status not only face price discrimination but are also offered oversized systems. There is no evidence of such practices towards customers with prior product information or those who have secured external financing for the purchase.</p> </div>
 
