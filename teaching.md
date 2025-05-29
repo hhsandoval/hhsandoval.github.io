@@ -19,7 +19,7 @@ PhD in Economics, UW-Madison, 2015
     * Teaching evaluations: [2020 - 2024](https://hhsandoval.github.io/E7427TE2020_24.pdf)
 
 2. <span style="color: #3F000F"> ECO 5435: Economic Data Analysis </span> (Master level) 
-    * Most recent: [Syllabus (Spring 2024)](https://hhsandoval.github.io/E5435S2024.pdf)
+    * Most recent: [Syllabus (Spring 2025)](https://hhsandoval.github.io/E5435S2025.pdf)
     * Teaching evaluations: [2020 - 2024](https://hhsandoval.github.io/E5435TE2020_24.pdf)
 
 
