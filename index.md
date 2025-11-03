@@ -138,3 +138,6 @@ with Hernán Bejarano and Pedro Hancevic. *<span style="color: #2B1B17"> World D
    with Armand Kapllani   
 
 
+<p style="font-size:0.85em;color:#777;text-align:center;">
+  Last updated: {{ site.time | date: "%B %Y" }}
+</p>
