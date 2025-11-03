@@ -2,11 +2,12 @@
 layout: default
 ---
 
-<span style="color: #3F000F"> Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), </span>  2015 - Present  
+<span style="color: #3A000C; font-weight: 600;">  Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), </span>  2015 - Present  
 University of Florida  
 Ph.D. in Economics, UW-Madison, 2015  
-<span style="color: #3F000F"> Research areas: </span> <span style="color: #2B1B17"> Applied Microeconomics</span>, with a particular emphasis on <span style="color: #2B1B17"> Environmental and Energy Economics</span>. I have also conducted empirical work in <span style="color: #2B1B17"> Education</span> and <span style="color: #2B1B17"> Labor Economics</span>, and I maintain an active research agenda on <span style="color: #2B1B17"> Consumer Confidence (Sentiment)</span>. Earlier work has examined topics related to Social Interactions (Peer Effects), and Poverty. <br>
-<span style="color: #3F000F"> E-mail: </span> [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
+<span style="color: #3A000C; font-weight: 600;"> Research areas: </span> <span style="color: #2B1B17; font-style: italic;">Applied Microeconomics</span>, with an emphasis on <span style="color: #2B1B17; font-style: italic;">Environmental and Energy Economics</span>. I have also conducted empirical work in <span style="color: #2B1B17; font-style: italic;">Education</span> and <span style="color: #2B1B17; font-style: italic;">Labor Economics</span>, and maintain an active agenda on 
+<span style="color: #2B1B17; font-style: italic;">Consumer Confidence (Sentiment)</span>. Earlier work includes studies on <span style="color: #2B1B17; font-style: italic;">Social Interactions</span> and <span style="color: #2B1B17; font-style: italic;">Poverty</span>. <br>
+<span style="color: #3A000C; font-weight: 600;">  E-mail: </span> [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
 
 [<span style="color: IndianRed"> Home </span>](index.html) <span style="color: #A70D2A"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
 
