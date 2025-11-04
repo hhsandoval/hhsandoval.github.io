@@ -2,13 +2,34 @@
 layout: default
 ---
 
-<span style="color: #3F000F"> Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR), </span>  2015 - Present  
-University of Florida  
-PhD in Economics, UW-Madison, 2015  
-<span style="color: #3F000F"> Research areas: </span> Applied Microeconomics, Energy/Environmental Economics, Consumer Sentiment, Social Interactions, Peer Effects, Education, and Program Evaluation <br>
-<span style="color: #3F000F"> E-mail: </span> [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu) 
+<div style="line-height: 1.5; font-size: 1.05em;"> 
+  <span style="color: #3A000C; font-weight: 600;">Director of Economic Analysis Program, Bureau of Economic and Business Research (BEBR),</span> 2015 – Present<br> 
+  <span style="font-size: 1.05em; color: #2B1B17;">University of Florida</span>
+</div>
 
-[<span style="color: IndianRed"> Home </span>](index.html) <span style="color: #A70D2A"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
+<div style="margin-top: 0.5em;"> 
+  <span style="font-size: 1.05em; color: #2B1B17;">Ph.D. in Economics, UW–Madison, 2015</span>
+</div>
+
+<div style="margin-top: 0.5em;">
+  <span style="color: #3A000C; font-weight: 600;">Research areas:</span> <span style="color: #5A3E36; font-style: italic;">Applied Microeconomics</span>, with an emphasis on <span style="color: #5A3E36; font-style: italic;">Environmental and Energy Economics</span>. I also conduct empirical work in <span style="color: #5A3E36; font-style: italic;">Education</span> and <span style="color: #5A3E36; font-style: italic;">Labor Economics</span>, and maintain an active agenda on <span style="color: #5A3E36; font-style: italic;">Consumer Confidence (Sentiment)</span>. Earlier work includes studies on <span style="color: #5A3E36; font-style: italic;">Social Interactions</span> and <span style="color: #5A3E36; font-style: italic;">Poverty</span>.
+</div> 
+
+<div style="margin-top: 0.5em;"> 
+  <span style="color:#3A000C; font-weight:600;">E-mail:</span>
+  <a href="mailto:hsandoval@ufl.edu" style="color:#2B1B17; text-decoration:none;">
+  hsandoval@ufl.edu</a><br><br>
+</div>
+
+<div style="text-align:center; margin-top:1em;">
+  <a href="index.html" style="color:IndianRed; text-decoration:none;">Home</a>
+  <span style="color:#A70D2A;"> &#124; </span>
+  <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank" style="color:IndianRed; text-decoration:none;">Download CV</a>
+  <span style="color:#A70D2A;"> &#124; </span>
+  <a href="teaching.html" style="color:IndianRed; text-decoration:none;">Teaching</a>
+  <span style="color:#A70D2A;"> &#124; </span>
+  <a href="bebr.html" style="color:IndianRed; text-decoration:none;">BEBR</a>
+</div>
 
 * * *
 
