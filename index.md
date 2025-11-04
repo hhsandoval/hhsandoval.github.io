@@ -7,19 +7,23 @@ layout: default
   <span style="font-size: 1.05em; color: #2B1B17;">University of Florida</span>
 </div>
 
-<div style="margin-top: 0.6em;"> 
+<div style="margin-top: 0.5em;"> 
   <span style="font-size: 1.05em; color: #2B1B17;">Ph.D. in Economics, UW–Madison, 2015</span>
 </div>
 
-<div style="margin-top: 0.6em;">
-  <span style="color: #3A000C; font-weight: 600;">Research areas:</span> <span style="color: #5A3E36; font-style: italic;">Applied       Microeconomics</span>, with an emphasis on <span style="color: #5A3E36; font-style: italic;">Environmental and Energy Economics</span>. I also conduct empirical work   in <span style="color: #5A3E36; font-style: italic;">Education</span> and <span style="color: #5A3E36; font-style: italic;">Labor Economics</span>, and maintain an     active agenda on <span style="color: #5A3E36; font-style: italic;">Consumer Confidence (Sentiment)</span>. Earlier work includes studies on <span style="color:         #5A3E36; font-style: italic;">Social Interactions</span> and <span style="color: #5A3E36; font-style: italic;">Poverty</span>.
+<div style="margin-top: 0.5em;">
+  <span style="color: #3A000C; font-weight: 600;">Research areas:</span> <span style="color: #5A3E36; font-style: italic;">Applied Microeconomics</span>, with an emphasis on <span style="color: #5A3E36; font-style: italic;">Environmental and Energy Economics</span>. I also conduct empirical work in <span style="color: #5A3E36; font-style: italic;">Education</span> and <span style="color: #5A3E36; font-style: italic;">Labor Economics</span>, and maintain an active agenda on <span style="color: #5A3E36; font-style: italic;">Consumer Confidence (Sentiment)</span>. Earlier work includes studies on <span style="color: #5A3E36; font-style: italic;">Social Interactions</span> and <span style="color: #5A3E36; font-style: italic;">Poverty</span>.
 </div> 
 
-<div style="margin-top: 0.6em;"> 
-  <span style="color: #3A000C; font-weight: 600;">E-mail:</span> [hsandoval@ufl.edu](mailto:hsandoval@ufl.edu)<br>
+<div style="margin-top: 0.5em;"> 
+  <span style="color:#3A000C; font-weight:600;">E-mail:</span>
+  <a href="mailto:hsandoval@ufl.edu" style="color:#2B1B17; text-decoration:none;">
+  hsandoval@ufl.edu</a><br><br>
 </div>
 
-[<span style="color: IndianRed"> Home </span>](index.html) <span style="color: #A70D2A"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)
+<div style="text-align:center; margin-top:1em;">
+  [<span style="color: IndianRed"> Home </span>](index.html) <span style="color: #A70D2A"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)  
+</div>
 
 * * *
 
