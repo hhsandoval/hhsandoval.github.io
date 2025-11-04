@@ -22,7 +22,13 @@ layout: default
 </div>
 
 <div style="text-align:center; margin-top:1em;">
-  [<span style="color: IndianRed"> Home </span>](index.html) <span style="color: #A70D2A"> &#124; </span> <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank"> <span style="color: IndianRed"> Download CV </span> </a> <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> Teaching </span>](teaching.html) <span style="color: #A70D2A"> &#124; </span> [<span style="color: IndianRed"> BEBR </span>](bebr.html)  
+  <a href="index.html" style="color:IndianRed; text-decoration:none;">Home</a>
+  <span style="color:#A70D2A;"> &#124; </span>
+  <a href="https://hhsandoval.github.io/CVHHSG.pdf" target="_blank" style="color:IndianRed; text-decoration:none;">Download CV</a>
+  <span style="color:#A70D2A;"> &#124; </span>
+  <a href="teaching.html" style="color:IndianRed; text-decoration:none;">Teaching</a>
+  <span style="color:#A70D2A;"> &#124; </span>
+  <a href="bebr.html" style="color:IndianRed; text-decoration:none;">BEBR</a>
 </div>
 
 * * *
