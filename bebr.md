@@ -7,18 +7,18 @@ layout: default
   <span style="font-size: 1.05em; color: #2B1B17;">University of Florida</span>
 </div>
 
-<div style="margin-top: 0.5em;"> 
+<div style="margin-top: 0.45em;"> 
   <span style="font-size: 1.05em; color: #2B1B17;">Ph.D. in Economics, UW–Madison, 2015</span>
 </div>
 
-<div style="margin-top: 0.5em;">
+<div style="margin-top: 0.45em;">
   <span style="color: #3A000C; font-weight: 600;">Research areas:</span> <span style="color: #5A3E36; font-style: italic;">Applied Microeconomics</span>, with an emphasis on <span style="color: #5A3E36; font-style: italic;">Environmental and Energy Economics</span>. I also conduct empirical work in <span style="color: #5A3E36; font-style: italic;">Education</span> and <span style="color: #5A3E36; font-style: italic;">Labor Economics</span>, and maintain an active agenda on <span style="color: #5A3E36; font-style: italic;">Consumer Confidence (Sentiment)</span>. Earlier work includes studies on <span style="color: #5A3E36; font-style: italic;">Social Interactions</span> and <span style="color: #5A3E36; font-style: italic;">Poverty</span>.
 </div> 
 
-<div style="margin-top: 0.5em;"> 
+<div style="margin-top: 0.45em;"> 
   <span style="color:#3A000C; font-weight:600;">E-mail:</span>
   <a href="mailto:hsandoval@ufl.edu" style="color:#2B1B17; text-decoration:none;">
-  hsandoval@ufl.edu</a><br><br>
+  hsandoval@ufl.edu</a>
 </div>
 
 <div style="text-align:center; margin-top:1em;">
@@ -28,7 +28,7 @@ layout: default
   <span style="color:#A70D2A;"> &#124; </span>
   <a href="teaching.html" style="color:IndianRed; text-decoration:none;">Teaching</a>
   <span style="color:#A70D2A;"> &#124; </span>
-  <a href="bebr.html" style="color:IndianRed; text-decoration:none;">BEBR</a>
+  <a href="bebr.html" style="color:IndianRed; text-decoration:none;">BEBR</a><br>
 </div>
 
 * * *
