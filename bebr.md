@@ -17,8 +17,7 @@ layout: default
 
 <div style="margin-top: 0.45em;"> 
   <span style="color:#3A000C; font-weight:600;">E-mail:</span>
-  <a href="mailto:hsandoval@ufl.edu" style="color:#2B1B17; text-decoration:none;">
-  hsandoval@ufl.edu</a>
+  <a href="mailto:hsandoval@ufl.edu">hsandoval@ufl.edu</a>
 </div>
 
 <div style="text-align:center; margin-top:1em;">
