@@ -28,7 +28,7 @@ layout: default
   <span style="color:#A70D2A;"> &#124; </span>
   <a href="teaching.html" style="color:IndianRed; text-decoration:none;">Teaching</a>
   <span style="color:#A70D2A;"> &#124; </span>
-  <a href="bebr.html" style="color:IndianRed; text-decoration:none;">BEBR</a><br>
+  <a href="bebr.html" style="color:IndianRed; text-decoration:none;">BEBR</a><br><br>
 </div>
 
 * * *
