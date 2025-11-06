@@ -35,7 +35,7 @@ layout: default
 ### <span style="color: maroon"> Projects involved </span>
 
 1. [Consumer Sentiment Index (CSI) Press Release](https://www.bebr.ufl.edu/florida-consumer-sentiment/) (since October 2015)
-    * <span style="color: Sienna"> Current release:</span> [Release](https://bebr.ufl.edu/wp-content/uploads/2025/11/October-CSI-Report-for-Website.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2025/11/october-csi/) <span style="color: maroon"> &#124; </span> [Florida Trend](https://www.floridatrend.com/articles/2025/11/04/rising-pessimism-marks-another-drop-florida-consumer-sentiment-october/) <span style="color: maroon"> &#124; </span> [Florida Politics](https://floridapolitics.com/archives/763807-consumer-sentiment-in-florida-slips-for-fourth-straight-month/) 
+    * <span style="color: Sienna"> Current release:</span> [BEBR](https://bebr.ufl.edu/wp-content/uploads/2025/11/October-CSI-Report-for-Website.pdf) <span style="color: maroon"> &#124; </span> [UF News](https://news.ufl.edu/2025/11/october-csi/) <span style="color: maroon"> &#124; </span> [Florida Trend](https://www.floridatrend.com/articles/2025/11/04/rising-pessimism-marks-another-drop-florida-consumer-sentiment-october/) <span style="color: maroon"> &#124; </span> [Florida Politics](https://floridapolitics.com/archives/763807-consumer-sentiment-in-florida-slips-for-fourth-straight-month/) 
 
 2. <span style="color: #3F000F"> North Central Florida Regional Industry Opportunities and Barriers Study. </span> *Sponsored by the University of Florida, Santa Fe College, and Community Foundation of North Central
 Florida,* 2025.
