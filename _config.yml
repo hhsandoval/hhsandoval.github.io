@@ -1,7 +1,18 @@
 title: Hector H. Sandoval&#39;s Website
 logo: "hhsg2023.jpeg"
 author: Hector H. Sandoval
-description: Hector H. Sandoval, Mexico.
+description: >
+  Hector H. Sandoval, Mexico.<br>
+  <a href="https://orcid.org/0000-0001-8571-726X" target="_blank">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
+         alt="ORCID logo" style="height:16px; vertical-align:middle;">
+    ORCID
+  </a> &nbsp; | &nbsp;
+  <a href="https://scholar.google.com/citations?user=a9v44O4AAAAJ&hl" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" 
+         alt="Google Scholar logo" style="height:16px; vertical-align:middle;">
+    Google Scholar
+  </a>
 google_analytics:
 theme: jekyll-theme-minimal
 github: is\_project\_page:false
@@ -19,3 +30,5 @@ github: is\_project\_page:false
 # excerpt_length: 100
 # show_excerpts: true
 # https://user-images.githubusercontent.com/95992942/145701862-438f789f-30d0-4143-948b-695a9c4d9f90.jpg
+
+
